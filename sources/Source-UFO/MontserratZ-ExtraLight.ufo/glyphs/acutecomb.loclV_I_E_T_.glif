@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb.loclVIET" format="2">
+  <outline>
+    <contour>
+      <point x="250.954" y="607" type="line"/>
+      <point x="376.365" y="709.167" type="line"/>
+      <point x="428.213" y="709.167" type="line"/>
+      <point x="289.335" y="607" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="itilde" format="2">
+  <advance width="326"/>
+  <unicode hex="0129"/>
+  <anchor x="163" y="750" name="t.uni0308"/>
+  <anchor x="163" y="0" name="b.uni0324_3"/>
+  <anchor x="276" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="tildecomb.narrow" xOffset="-137"/>
+  </outline>
+</glyph>

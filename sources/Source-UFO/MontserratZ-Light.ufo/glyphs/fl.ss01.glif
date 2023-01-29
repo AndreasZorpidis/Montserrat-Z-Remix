@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fl.ss01" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="544.333" y="-104.333" type="qcurve" smooth="yes"/>
+      <point x="477.666" y="-104.333"/>
+      <point x="407.333" y="-28.3335"/>
+      <point x="407.333" y="36.333" type="qcurve" smooth="yes"/>
+      <point x="407.333" y="561" type="line" smooth="yes"/>
+      <point x="407.333" y="633.667"/>
+      <point x="344" y="702.667"/>
+      <point x="286.666" y="702.667" type="qcurve" smooth="yes"/>
+      <point x="229.333" y="702.667"/>
+      <point x="165.999" y="633.667"/>
+      <point x="165.999" y="561" type="qcurve" smooth="yes"/>
+      <point x="165.999" y="0" type="line"/>
+      <point x="116" y="0" type="line"/>
+      <point x="116" y="556.667" type="line" smooth="yes"/>
+      <point x="116" y="619.667"/>
+      <point x="158" y="704.333"/>
+      <point x="234.333" y="746"/>
+      <point x="287" y="746" type="qcurve" smooth="yes"/>
+      <point x="340.999" y="746"/>
+      <point x="416.999" y="704.333"/>
+      <point x="457.332" y="619.667"/>
+      <point x="457.332" y="556.667" type="qcurve" smooth="yes"/>
+      <point x="457.332" y="42.6663" type="line" smooth="yes"/>
+      <point x="457.332" y="-7.66719"/>
+      <point x="503.332" y="-60.6673"/>
+      <point x="549.999" y="-60.6673" type="qcurve" smooth="yes"/>
+      <point x="565.332" y="-60.6673"/>
+      <point x="590.999" y="-55.6673"/>
+      <point x="599.666" y="-51.6673" type="qcurve"/>
+      <point x="603.666" y="-93.6666" type="line"/>
+      <point x="590.333" y="-98.3333"/>
+      <point x="559.666" y="-104.333"/>
+    </contour>
+    <contour>
+      <point x="19.6668" y="479.334" type="line"/>
+      <point x="19.6668" y="522" type="line"/>
+      <point x="332" y="522" type="line"/>
+      <point x="332" y="479.334" type="line"/>
+    </contour>
+  </outline>
+</glyph>

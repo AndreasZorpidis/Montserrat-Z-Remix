@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.dnom" format="2">
+  <advance width="430"/>
+  <outline>
+    <contour>
+      <point x="208.555" y="-2.57795" type="qcurve" smooth="yes"/>
+      <point x="153.7" y="-2.57795"/>
+      <point x="65.2547" y="28.8441"/>
+      <point x="44.3878" y="53.4106" type="qcurve"/>
+      <point x="57.5665" y="74.9126" type="line"/>
+      <point x="78.289" y="52.4905"/>
+      <point x="157" y="22.6464"/>
+      <point x="208.555" y="22.6464" type="qcurve" smooth="yes"/>
+      <point x="276.954" y="22.6464"/>
+      <point x="342.498" y="73.7567"/>
+      <point x="342.498" y="115.445" type="qcurve" smooth="yes"/>
+      <point x="342.498" y="157.278"/>
+      <point x="272.532" y="204.532"/>
+      <point x="181" y="204.532" type="qcurve" smooth="yes"/>
+      <point x="76.3992" y="204.532" type="line"/>
+      <point x="100.544" y="415" type="line"/>
+      <point x="344.878" y="415" type="line"/>
+      <point x="344.878" y="390.209" type="line"/>
+      <point x="112.289" y="390.209" type="line"/>
+      <point x="125.202" y="403.255" type="line"/>
+      <point x="103.635" y="216.422" type="line"/>
+      <point x="90.7224" y="229.323" type="line"/>
+      <point x="184.445" y="229.323" type="line" smooth="yes"/>
+      <point x="253.878" y="229.323"/>
+      <point x="335.167" y="200.745"/>
+      <point x="370.312" y="149.734"/>
+      <point x="370.312" y="115.445" type="qcurve" smooth="yes"/>
+      <point x="370.312" y="81.3004"/>
+      <point x="333.589" y="28.1445"/>
+      <point x="261.856" y="-2.57795"/>
+    </contour>
+  </outline>
+</glyph>

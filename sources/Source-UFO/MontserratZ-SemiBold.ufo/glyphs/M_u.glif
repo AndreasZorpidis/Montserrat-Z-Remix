@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Mu" format="2">
+  <advance width="955"/>
+  <unicode hex="039C"/>
+  <anchor x="475.129" y="700" name="t.uni0308"/>
+  <anchor x="475.129" y="0" name="b.uni0324_3"/>
+  <outline>
+    <contour>
+      <point x="94.4361" y="0" type="line"/>
+      <point x="94.4361" y="700" type="line"/>
+      <point x="201.375" y="700" type="line"/>
+      <point x="507.494" y="189.022" type="line"/>
+      <point x="450.765" y="189.022" type="line"/>
+      <point x="752.366" y="700" type="line"/>
+      <point x="859.305" y="700" type="line"/>
+      <point x="860.434" y="0" type="line"/>
+      <point x="736.848" y="0" type="line"/>
+      <point x="735.719" y="506.591" type="line"/>
+      <point x="761.883" y="506.591" type="line"/>
+      <point x="506.235" y="79.5415" type="line"/>
+      <point x="447.506" y="79.5415" type="line"/>
+      <point x="188.211" y="506.591" type="line"/>
+      <point x="218.022" y="506.591" type="line"/>
+      <point x="218.022" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

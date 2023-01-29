@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0326" format="2">
+  <unicode hex="0326"/>
+  <anchor x="300" y="-229" name="t.uni0324"/>
+  <outline>
+    <contour>
+      <point x="257.885" y="-263.223" type="line"/>
+      <point x="290.554" y="-148.952" type="line"/>
+      <point x="300" y="-185.291" type="line"/>
+      <point x="276.486" y="-185.291"/>
+      <point x="248.662" y="-160"/>
+      <point x="248.662" y="-139.865" type="qcurve" smooth="yes"/>
+      <point x="248.662" y="-119.574"/>
+      <point x="277.175" y="-93.594"/>
+      <point x="300" y="-93.594" type="qcurve" smooth="yes"/>
+      <point x="323.825" y="-93.594"/>
+      <point x="351.338" y="-120.729"/>
+      <point x="351.338" y="-139.865" type="qcurve" smooth="yes"/>
+      <point x="351.338" y="-150.399"/>
+      <point x="345.649" y="-175.689"/>
+      <point x="337.737" y="-191.291" type="qcurve"/>
+      <point x="307.98" y="-263.223" type="line"/>
+    </contour>
+  </outline>
+</glyph>

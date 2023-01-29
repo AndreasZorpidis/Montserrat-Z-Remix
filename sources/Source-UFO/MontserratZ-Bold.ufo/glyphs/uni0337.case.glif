@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0337.case" format="2">
+  <anchor x="338.614" y="407.637" name="_t.uni0307_1"/>
+  <outline>
+    <contour>
+      <point x="117.28" y="231.547" type="line"/>
+      <point x="59.3465" y="309.827" type="line"/>
+      <point x="434.962" y="592.163" type="line"/>
+      <point x="492.895" y="513.883" type="line"/>
+    </contour>
+  </outline>
+</glyph>

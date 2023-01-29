@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EAF.sc" format="2">
+  <advance width="634"/>
+  <anchor x="377.989" y="1002.65" name="t.uni0308"/>
+  <anchor x="377.989" y="0" name="b.uni0324_3"/>
+  <anchor x="783.554" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="a.sc"/>
+    <component base="uni03060301" xyScale="2.67248e-19" yScale="1" xOffset="17.0463" yOffset="37.6118"/>
+  </outline>
+</glyph>

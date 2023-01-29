@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb.loclVIET" format="2">
+  <outline>
+    <contour>
+      <point x="290.506" y="607" type="line"/>
+      <point x="142.526" y="719.669" type="line"/>
+      <point x="251.784" y="719.669" type="line"/>
+      <point x="369.494" y="607" type="line"/>
+    </contour>
+  </outline>
+</glyph>

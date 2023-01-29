@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etatonos" format="2">
+  <advance width="897"/>
+  <unicode hex="0389"/>
+  <anchor x="482.784" y="700" name="t.uni0308"/>
+  <anchor x="482.784" y="594" name="t.uni0307_1"/>
+  <anchor x="482.784" y="0" name="b.uni0324_3"/>
+  <outline>
+    <contour>
+      <point x="709.394" y="700" type="line"/>
+      <point x="782.646" y="700" type="line"/>
+      <point x="782.646" y="0" type="line"/>
+      <point x="709.394" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="271.341" y="0" type="line"/>
+      <point x="198.089" y="0" type="line"/>
+      <point x="198.089" y="700" type="line"/>
+      <point x="271.341" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="716.66" y="323.34" type="line"/>
+      <point x="263.508" y="323.34" type="line"/>
+      <point x="263.508" y="387.66" type="line"/>
+      <point x="716.66" y="387.66" type="line"/>
+    </contour>
+    <contour>
+      <point x="11.2019" y="607" type="line"/>
+      <point x="51.601" y="730.596" type="line"/>
+      <point x="133.72" y="730.596" type="line"/>
+      <point x="69.1579" y="607" type="line"/>
+    </contour>
+  </outline>
+</glyph>

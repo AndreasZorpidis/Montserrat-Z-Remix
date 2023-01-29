@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Psi" format="2">
+  <advance width="851"/>
+  <unicode hex="03A8"/>
+  <outline>
+    <contour>
+      <point x="840.637" y="698.378" type="line"/>
+      <point x="842.326" y="560.594"/>
+      <point x="842.326" y="523.79" type="qcurve" smooth="yes"/>
+      <point x="842.326" y="425.303"/>
+      <point x="747.947" y="248.546"/>
+      <point x="569.812" y="170.952"/>
+      <point x="443.055" y="170.952" type="qcurve" smooth="yes"/>
+      <point x="441.21" y="170.952"/>
+      <point x="428.231" y="170.952"/>
+      <point x="415.406" y="170.952"/>
+      <point x="413.561" y="170.952" type="qcurve" smooth="yes"/>
+      <point x="285.426" y="170.952"/>
+      <point x="104.912" y="248.546"/>
+      <point x="9.15539" y="424.614"/>
+      <point x="9.15539" y="523.79" type="qcurve" smooth="yes"/>
+      <point x="9.15539" y="552.148"/>
+      <point x="13.3784" y="698.378" type="qcurve"/>
+      <point x="107.704" y="698.378" type="line"/>
+      <point x="106.015" y="563.972"/>
+      <point x="106.015" y="523.79" type="qcurve" smooth="yes"/>
+      <point x="106.015" y="446.506"/>
+      <point x="181.724" y="305.622"/>
+      <point x="324.143" y="249.075"/>
+      <point x="424.474" y="249.075" type="qcurve" smooth="yes"/>
+      <point x="426.318" y="249.075"/>
+      <point x="432.386" y="249.075"/>
+      <point x="433.231" y="249.075" type="qcurve"/>
+      <point x="534.406" y="250.075"/>
+      <point x="673.98" y="307.466"/>
+      <point x="746.311" y="448.351"/>
+      <point x="746.311" y="524.634" type="qcurve" smooth="yes"/>
+      <point x="746.311" y="563.128"/>
+      <point x="744.622" y="698.378" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="379.845" y="-25.9123" type="line"/>
+      <point x="379.845" y="725.912" type="line"/>
+      <point x="472.481" y="725.912" type="line"/>
+      <point x="472.481" y="-25.9123" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="350"/>
+  <guideline angle="0" x="0" y="939"/>
+</glyph>

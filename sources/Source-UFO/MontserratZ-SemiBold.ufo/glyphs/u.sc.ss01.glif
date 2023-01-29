@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u.sc.ss01" format="2">
+  <advance width="690"/>
+  <anchor x="354.224" y="591.577" name="t.uni0308"/>
+  <anchor x="546.129" y="591.577" name="t.uni031B_2"/>
+  <anchor x="354.224" y="0" name="b.uni0324_3"/>
+  <anchor x="682.824" y="0" name="m.uni0328_4"/>
+  <outline>
+    <contour>
+      <point x="305.307" y="-9.77635" type="qcurve" smooth="yes"/>
+      <point x="199.566" y="-9.77635"/>
+      <point x="81.0831" y="117.871"/>
+      <point x="81.0831" y="230.776" type="qcurve" smooth="yes"/>
+      <point x="81.0831" y="571.553" type="line"/>
+      <point x="207.481" y="571.553" type="line"/>
+      <point x="207.481" y="236.2" type="line" smooth="yes"/>
+      <point x="207.481" y="169.176"/>
+      <point x="273.952" y="97.0926"/>
+      <point x="334.165" y="97.0926" type="qcurve" smooth="yes"/>
+      <point x="399.73" y="97.0926"/>
+      <point x="476.331" y="173.046"/>
+      <point x="476.331" y="241.2" type="qcurve" smooth="yes"/>
+      <point x="476.331" y="571.553" type="line"/>
+      <point x="602.728" y="571.553" type="line"/>
+      <point x="602.728" y="0" type="line"/>
+      <point x="481.589" y="0" type="line"/>
+      <point x="481.589" y="135.329" type="line"/>
+      <point x="514.625" y="110.706" type="line"/>
+      <point x="487.495" y="51.2236"/>
+      <point x="381.272" y="-9.77635"/>
+    </contour>
+  </outline>
+</glyph>

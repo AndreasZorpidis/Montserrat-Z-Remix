@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ustraitstrokecy" format="2">
+  <advance width="738"/>
+  <unicode hex="04B0"/>
+  <anchor x="391.689" y="700" name="t.uni0308"/>
+  <anchor x="384.758" y="269.414" name="t.uni0307_1"/>
+  <anchor x="391.689" y="0" name="b.uni0324_3"/>
+  <outline>
+    <contour>
+      <point x="137.621" y="211.621" type="line"/>
+      <point x="137.621" y="311.38" type="line"/>
+      <point x="591.001" y="311.38" type="line"/>
+      <point x="591.001" y="211.621" type="line"/>
+    </contour>
+    <contour>
+      <point x="269.965" y="0" type="line"/>
+      <point x="269.965" y="296.138" type="line"/>
+      <point x="315.276" y="177.172" type="line"/>
+      <point x="2.24131" y="700" type="line"/>
+      <point x="211.83" y="700" type="line"/>
+      <point x="437.381" y="320.725" type="line"/>
+      <point x="316.276" y="320.725" type="line"/>
+      <point x="543.517" y="700" type="line"/>
+      <point x="735.829" y="700" type="line"/>
+      <point x="424.174" y="177.172" type="line"/>
+      <point x="468.105" y="296.138" type="line"/>
+      <point x="468.105" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

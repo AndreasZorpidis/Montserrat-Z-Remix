@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.dnom" format="2">
+  <advance width="430"/>
+  <outline>
+    <contour>
+      <point x="105.34" y="0" type="line"/>
+      <point x="298.407" y="376.274" type="line"/>
+      <point x="328.944" y="330.564" type="line"/>
+      <point x="77.9331" y="330.564" type="line"/>
+      <point x="124.246" y="380.067" type="line"/>
+      <point x="124.246" y="264.927" type="line"/>
+      <point x="28.4468" y="264.927" type="line"/>
+      <point x="28.4468" y="415" type="line"/>
+      <point x="406.157" y="415" type="line"/>
+      <point x="406.157" y="348.134" type="line"/>
+      <point x="227.056" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

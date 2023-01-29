@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ebreve.sc" format="2">
+  <advance width="570"/>
+  <anchor x="300" y="830" name="t.uni0308"/>
+  <anchor x="291" y="0" name="b.uni0324_3"/>
+  <anchor x="587" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="e.sc"/>
+    <component base="uni0306" xyScale="-1.64654e-18" yScale="1" xOffset="4.31078" yOffset="38.6216"/>
+  </outline>
+</glyph>

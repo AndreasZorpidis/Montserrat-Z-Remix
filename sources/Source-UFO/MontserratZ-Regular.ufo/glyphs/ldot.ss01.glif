@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot.ss01" format="2">
+  <advance width="338"/>
+  <anchor x="180" y="742" name="t.uni0308"/>
+  <anchor x="488" y="380" name="t.periodcentered.loclCAT"/>
+  <anchor x="180" y="380" name="t.uni0307_1"/>
+  <anchor x="395" y="742" name="t.uni031B_2"/>
+  <anchor x="252" y="0" name="b.uni0324_3"/>
+  <outline>
+    <component base="l.ss01"/>
+    <component base="periodcentered.loclCAT" xScale="1" xyScale="4.58919e-18" xOffset="194.458" yOffset="80.734"/>
+  </outline>
+</glyph>

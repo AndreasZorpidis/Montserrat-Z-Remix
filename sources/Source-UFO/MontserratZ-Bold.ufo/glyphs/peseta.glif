@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peseta" format="2">
+  <advance width="1702"/>
+  <unicode hex="20A7"/>
+  <anchor x="973.1" y="247.726" name="t.uni0307_1"/>
+  <anchor x="1131.99" y="742" name="t.uni031B_2"/>
+  <anchor x="958.927" y="681.464" name="t.uni0308_2_ligComponent_1"/>
+  <anchor x="1038.89" y="0" name="m.uni0324_1_ligComponent_1"/>
+  <anchor x="1522.61" y="556.05" name="t.uni0308_2_ligComponent_2"/>
+  <anchor x="1522.61" y="0" name="m.uni0324_1_ligComponent_2"/>
+  <outline>
+    <component base="P"/>
+    <component base="t" xScale="1" xOffset="736.536"/>
+    <component base="s" xScale="1" xOffset="1171.8"/>
+  </outline>
+</glyph>

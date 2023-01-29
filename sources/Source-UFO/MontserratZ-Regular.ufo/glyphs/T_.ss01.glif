@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T.ss01" format="2">
+  <advance width="581"/>
+  <anchor x="379" y="702" name="t.uni0308"/>
+  <anchor x="370" y="276" name="t.uni0307_1"/>
+  <anchor x="372" y="0" name="b.uni0324_3"/>
+  <outline>
+    <contour>
+      <point x="25.3301" y="570.812" type="qcurve"/>
+      <point x="-1.66507" y="628.734" type="line"/>
+      <point x="66.734" y="669"/>
+      <point x="215.064" y="706.399"/>
+      <point x="289.995" y="706.399" type="qcurve" smooth="yes"/>
+      <point x="365.36" y="706.399"/>
+      <point x="515.256" y="669"/>
+      <point x="583.089" y="628.734" type="qcurve"/>
+      <point x="556.094" y="570.812" type="line"/>
+      <point x="494.527" y="607.246"/>
+      <point x="359.094" y="640.945"/>
+      <point x="289.995" y="640.945" type="qcurve" smooth="yes"/>
+      <point x="221.463" y="640.945"/>
+      <point x="87.8967" y="607.246"/>
+    </contour>
+    <contour>
+      <point x="254.369" y="0" type="line"/>
+      <point x="254.369" y="666.773" type="line"/>
+      <point x="327.621" y="666.773" type="line"/>
+      <point x="327.621" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nu" format="2">
+  <advance width="813"/>
+  <unicode hex="039D"/>
+  <anchor x="399" y="700" name="t.uni0308"/>
+  <anchor x="399" y="0" name="b.uni0324_3"/>
+  <outline>
+    <contour>
+      <point x="114.305" y="0" type="line"/>
+      <point x="114.305" y="700" type="line"/>
+      <point x="174.926" y="700" type="line"/>
+      <point x="657.571" y="91.5474" type="line"/>
+      <point x="625.611" y="91.5474" type="line"/>
+      <point x="625.611" y="700" type="line"/>
+      <point x="698.862" y="700" type="line"/>
+      <point x="698.862" y="0" type="line"/>
+      <point x="638.241" y="0" type="line"/>
+      <point x="155.596" y="608.453" type="line"/>
+      <point x="187.557" y="608.453" type="line"/>
+      <point x="187.557" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0453.loclMKD" format="2">
+  <advance width="528"/>
+  <anchor x="294.621" y="774.585" name="t.uni0308"/>
+  <outline>
+    <component base="uni0433"/>
+    <component base="acutecomb" xyScale="1.73645e-20" xOffset="-6.93099" yOffset="-0.620657"/>
+  </outline>
+</glyph>

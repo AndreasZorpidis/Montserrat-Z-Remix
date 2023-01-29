@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilontonos" format="2">
+  <advance width="529"/>
+  <unicode hex="03CD"/>
+  <anchor x="279" y="593" name="t.uni0308"/>
+  <anchor x="474" y="593" name="t.uni031B_2"/>
+  <anchor x="279" y="0" name="b.uni0324_3"/>
+  <anchor x="496" y="0" name="m.uni0328_4"/>
+  <outline>
+    <contour>
+      <point x="265" y="-9" type="qcurve" smooth="yes"/>
+      <point x="185" y="-9"/>
+      <point x="71" y="51"/>
+      <point x="10" y="165"/>
+      <point x="10" y="244" type="qcurve" smooth="yes"/>
+      <point x="10" y="531" type="line"/>
+      <point x="121" y="531" type="line"/>
+      <point x="121" y="247" type="line" smooth="yes"/>
+      <point x="121" y="169"/>
+      <point x="196" y="87"/>
+      <point x="266" y="87" type="qcurve" smooth="yes"/>
+      <point x="336" y="87"/>
+      <point x="410" y="168"/>
+      <point x="410" y="247" type="qcurve" smooth="yes"/>
+      <point x="410" y="531" type="line"/>
+      <point x="519" y="531" type="line"/>
+      <point x="519" y="244" type="line" smooth="yes"/>
+      <point x="519" y="165"/>
+      <point x="459" y="51"/>
+      <point x="345" y="-9"/>
+    </contour>
+    <contour>
+      <point x="222" y="607" type="line"/>
+      <point x="265" y="741" type="line"/>
+      <point x="387" y="741" type="line"/>
+      <point x="309" y="607" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0307.i" format="2">
+  <outline>
+    <contour>
+      <point x="300" y="641.305" type="qcurve" smooth="yes"/>
+      <point x="278.103" y="641.305"/>
+      <point x="247.941" y="670.901"/>
+      <point x="247.941" y="691.665" type="qcurve" smooth="yes"/>
+      <point x="247.941" y="712.862"/>
+      <point x="278.103" y="742.025"/>
+      <point x="300" y="742.025" type="qcurve" smooth="yes"/>
+      <point x="322.33" y="742.025"/>
+      <point x="352.059" y="713.995"/>
+      <point x="352.059" y="692.798" type="qcurve" smooth="yes"/>
+      <point x="352.059" y="671.468"/>
+      <point x="322.897" y="641.305"/>
+    </contour>
+  </outline>
+</glyph>

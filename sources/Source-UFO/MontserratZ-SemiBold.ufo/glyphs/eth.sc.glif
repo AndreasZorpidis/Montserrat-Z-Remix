@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth.sc" format="2">
+  <advance width="726"/>
+  <anchor x="327.035" y="591.577" name="t.uni0308"/>
+  <anchor x="214.353" y="299.353" name="t.uni0307_1"/>
+  <anchor x="327.165" y="0" name="b.uni0324_3"/>
+  <outline>
+    <component base="d.sc" xOffset="20"/>
+    <component base="uni0335.sc" xyScale="7.47645e-20" xOffset="-44.8706" yOffset="-1.87061"/>
+  </outline>
+</glyph>

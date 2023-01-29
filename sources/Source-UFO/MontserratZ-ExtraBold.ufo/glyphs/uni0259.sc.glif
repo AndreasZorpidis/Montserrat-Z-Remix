@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0259.sc" format="2">
+  <advance width="681"/>
+  <anchor x="345.172" y="585.414" name="t.uni0308"/>
+  <anchor x="345.172" y="0" name="b.uni0324_3"/>
+  <outline>
+    <contour>
+      <point x="340.517" y="-13.138" type="qcurve" smooth="yes"/>
+      <point x="248.621" y="-13.138"/>
+      <point x="108.345" y="64.5516"/>
+      <point x="29.5859" y="204.379"/>
+      <point x="29.5859" y="296.897" type="qcurve" smooth="yes"/>
+      <point x="29.5859" y="331.276" type="line"/>
+      <point x="481.344" y="331.276" type="line"/>
+      <point x="481.344" y="217.758" type="line"/>
+      <point x="158.449" y="217.758" type="line"/>
+      <point x="219.657" y="264.31" type="line"/>
+      <point x="219.657" y="218.172"/>
+      <point x="247.346" y="153.69"/>
+      <point x="302.69" y="120.553"/>
+      <point x="342.517" y="120.553" type="qcurve" smooth="yes"/>
+      <point x="382.345" y="120.553"/>
+      <point x="434.378" y="153.38"/>
+      <point x="460.757" y="216.931"/>
+      <point x="460.757" y="261.827" type="qcurve" smooth="yes"/>
+      <point x="460.757" y="296.897" type="line" smooth="yes"/>
+      <point x="460.757" y="338.103"/>
+      <point x="426.62" y="401.654"/>
+      <point x="365.827" y="437.482"/>
+      <point x="324.69" y="437.482" type="qcurve" smooth="yes"/>
+      <point x="288.586" y="437.482"/>
+      <point x="221.311" y="412.93"/>
+      <point x="195.518" y="392.137" type="qcurve"/>
+      <point x="93.0685" y="513.276" type="line"/>
+      <point x="132.758" y="548.276"/>
+      <point x="260.931" y="591.414"/>
+      <point x="332.828" y="591.414" type="qcurve" smooth="yes"/>
+      <point x="425.035" y="591.414"/>
+      <point x="568.311" y="513.724"/>
+      <point x="651.449" y="377.586"/>
+      <point x="651.449" y="289.138" type="qcurve" smooth="yes"/>
+      <point x="651.449" y="222"/>
+      <point x="605.38" y="111.241"/>
+      <point x="521.552" y="30.862"/>
+      <point x="407.655" y="-13.138"/>
+    </contour>
+  </outline>
+</glyph>

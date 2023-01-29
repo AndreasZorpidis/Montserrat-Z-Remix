@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar.sc.ss01" format="2">
+  <advance width="598"/>
+  <anchor x="299" y="583" name="t.uni0308"/>
+  <anchor x="299" y="243" name="t.uni0307_1"/>
+  <anchor x="299" y="0" name="b.uni0324_3"/>
+  <outline>
+    <component base="t.sc.ss01"/>
+    <component base="uni0335.sc" xOffset="45" yOffset="-53"/>
+  </outline>
+</glyph>

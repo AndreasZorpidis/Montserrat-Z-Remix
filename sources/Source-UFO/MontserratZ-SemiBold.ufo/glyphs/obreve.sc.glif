@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="obreve.sc" format="2">
+  <advance width="710"/>
+  <anchor x="370.094" y="824.177" name="t.uni0308"/>
+  <anchor x="370.094" y="295.353" name="t.uni0307_1"/>
+  <anchor x="471.105" y="591.577" name="t.uni031B_2"/>
+  <anchor x="370.094" y="0" name="b.uni0324_3"/>
+  <anchor x="511.083" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="uni0306" xyScale="2.67248e-19" yScale="1" xOffset="55.2939" yOffset="37.6118"/>
+  </outline>
+</glyph>

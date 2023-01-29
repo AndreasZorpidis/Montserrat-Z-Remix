@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.osf" format="2">
+  <advance width="592"/>
+  <outline>
+    <contour>
+      <point x="265.777" y="-111.777" type="qcurve" smooth="yes"/>
+      <point x="192.57" y="-111.777"/>
+      <point x="49.3967" y="-72.5365"/>
+      <point x="-1.17326" y="-36.7097" type="qcurve"/>
+      <point x="61.9331" y="87.2128" type="line"/>
+      <point x="102.106" y="57.5927"/>
+      <point x="207.743" y="23.5426"/>
+      <point x="262" y="23.5426" type="qcurve" smooth="yes"/>
+      <point x="322.514" y="23.5426"/>
+      <point x="392.821" y="71.6596"/>
+      <point x="392.821" y="113.743" type="qcurve" smooth="yes"/>
+      <point x="392.821" y="153.637"/>
+      <point x="330.687" y="200.357"/>
+      <point x="261.553" y="200.357" type="qcurve" smooth="yes"/>
+      <point x="188.464" y="200.357" type="line"/>
+      <point x="188.464" y="306.743" type="line"/>
+      <point x="382.737" y="528.15" type="line"/>
+      <point x="401.324" y="469.664" type="line"/>
+      <point x="33.6201" y="469.664" type="line"/>
+      <point x="33.6201" y="600" type="line"/>
+      <point x="524.246" y="600" type="line"/>
+      <point x="524.246" y="495.424" type="line"/>
+      <point x="329.973" y="274.017" type="line"/>
+      <point x="248.347" y="321.123" type="line"/>
+      <point x="294.66" y="321.123" type="line" smooth="yes"/>
+      <point x="424.246" y="321.123"/>
+      <point x="556.213" y="204.933"/>
+      <point x="556.213" y="114.347" type="qcurve" smooth="yes"/>
+      <point x="556.213" y="54.9499"/>
+      <point x="494.04" y="-48.4134"/>
+      <point x="365.71" y="-111.777"/>
+    </contour>
+  </outline>
+</glyph>

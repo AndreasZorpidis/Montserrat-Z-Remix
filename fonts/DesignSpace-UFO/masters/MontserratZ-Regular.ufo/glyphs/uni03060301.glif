@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03060301" format="2">
+  <anchor x="300" y="562" name="_t.uni0308"/>
+  <anchor x="300" y="562" name="_t.uni0308_2"/>
+  <anchor x="300" y="562" name="_m.uni0308"/>
+  <anchor x="300" y="982" name="m.uni0308"/>
+  <outline>
+    <component base="uni0306.loclVIET"/>
+    <component base="acutecomb.loclVIET" yOffset="129"/>
+  </outline>
+</glyph>

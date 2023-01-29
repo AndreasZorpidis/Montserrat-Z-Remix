@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Xi" format="2">
+  <advance width="815"/>
+  <unicode hex="039E"/>
+  <anchor x="441.406" y="700" name="t.uni0308"/>
+  <anchor x="436.406" y="0" name="b.uni0324_3"/>
+  <outline>
+    <contour>
+      <point x="190.311" y="313.06" type="line"/>
+      <point x="190.311" y="397.94" type="line"/>
+      <point x="624.306" y="397.94" type="line"/>
+      <point x="624.306" y="313.06" type="line"/>
+    </contour>
+    <contour>
+      <point x="105.128" y="0" type="line"/>
+      <point x="105.128" y="85.7243" type="line"/>
+      <point x="709.644" y="85.7243" type="line"/>
+      <point x="709.644" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="117.797" y="613.276" type="line"/>
+      <point x="117.797" y="700" type="line"/>
+      <point x="694.799" y="700" type="line"/>
+      <point x="694.799" y="613.276" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Z+macron%</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesinglbase" format="2">
+  <advance width="244"/>
+  <unicode hex="201A"/>
+  <outline>
+    <contour>
+      <point x="48.9297" y="-151.294" type="line"/>
+      <point x="106.811" y="70.5048" type="line"/>
+      <point x="124.141" y="-4.12939" type="line"/>
+      <point x="88.7764" y="-4.12939"/>
+      <point x="41.7652" y="39.3642"/>
+      <point x="41.7652" y="76.4696" type="qcurve" smooth="yes"/>
+      <point x="41.7652" y="113.704"/>
+      <point x="88.9057" y="159.198"/>
+      <point x="123.27" y="159.198" type="qcurve" smooth="yes"/>
+      <point x="158.505" y="159.198"/>
+      <point x="203.904" y="112.834"/>
+      <point x="203.904" y="76.4696" type="qcurve" smooth="yes"/>
+      <point x="203.904" y="65.6933"/>
+      <point x="199.775" y="43.2699"/>
+      <point x="190.74" y="13.0703"/>
+      <point x="181.446" y="-10.1294" type="qcurve"/>
+      <point x="129.728" y="-151.294" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar.sc" format="2">
+  <advance width="732"/>
+  <anchor x="379" y="593" name="t.uni0308"/>
+  <anchor x="379" y="508" name="t.uni0307_1"/>
+  <anchor x="379" y="0" name="b.uni0324_3"/>
+  <outline>
+    <component base="h.sc" xOffset="20"/>
+    <component base="uni0336.sc" xOffset="41" yOffset="79"/>
+  </outline>
+</glyph>

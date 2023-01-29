@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03020300" format="2">
+  <anchor x="300" y="556.05" name="_t.uni0308"/>
+  <anchor x="300" y="556.05" name="_t.uni0308_2"/>
+  <anchor x="300" y="556.05" name="_m.uni0308"/>
+  <anchor x="584.391" y="873.614" name="m.uni0308"/>
+  <outline>
+    <component base="uni0302.loclVIET"/>
+    <component base="gravecomb.loclVIET" xScale="1" xyScale="-5.45412e-18" xOffset="205.956" yOffset="95.9499"/>
+  </outline>
+</glyph>

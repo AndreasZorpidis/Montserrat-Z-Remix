@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etatonos" format="2">
+  <advance width="644"/>
+  <unicode hex="03AE"/>
+  <anchor x="325" y="547" name="t.uni0308"/>
+  <anchor x="325" y="0" name="b.uni0324_3"/>
+  <outline>
+    <contour>
+      <point x="400" y="557" type="qcurve" smooth="yes"/>
+      <point x="463" y="557"/>
+      <point x="565" y="506"/>
+      <point x="624" y="398"/>
+      <point x="624" y="312" type="qcurve" smooth="yes"/>
+      <point x="624" y="-198" type="line"/>
+      <point x="398" y="-198" type="line"/>
+      <point x="398" y="273" type="line" smooth="yes"/>
+      <point x="398" y="324"/>
+      <point x="362" y="367"/>
+      <point x="331" y="367" type="qcurve" smooth="yes"/>
+      <point x="308" y="367"/>
+      <point x="269" y="346"/>
+      <point x="246" y="298"/>
+      <point x="246" y="257" type="qcurve" smooth="yes"/>
+      <point x="246" y="0" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="20" y="547" type="line"/>
+      <point x="235" y="547" type="line"/>
+      <point x="235" y="387" type="line"/>
+      <point x="192" y="433" type="line"/>
+      <point x="224" y="495"/>
+      <point x="333" y="557"/>
+    </contour>
+    <contour>
+      <point x="248" y="607" type="line"/>
+      <point x="310" y="767" type="line"/>
+      <point x="502" y="767" type="line"/>
+      <point x="375" y="607" type="line"/>
+    </contour>
+  </outline>
+</glyph>

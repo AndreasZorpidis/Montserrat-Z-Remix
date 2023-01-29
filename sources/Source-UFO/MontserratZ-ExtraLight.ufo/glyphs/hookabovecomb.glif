@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookabovecomb" format="2">
+  <unicode hex="0309"/>
+  <anchor x="300" y="562" name="_t.uni0308"/>
+  <anchor x="300" y="562" name="_t.uni0308_2"/>
+  <anchor x="300" y="562" name="_m.uni0308"/>
+  <anchor x="300" y="879" name="m.uni0308"/>
+  <outline>
+    <contour>
+      <point x="304.89" y="602.133" type="qcurve"/>
+      <point x="290.989" y="622.034" type="line"/>
+      <point x="321.7" y="636.034"/>
+      <point x="352.833" y="673.167"/>
+      <point x="352.833" y="697.445" type="qcurve" smooth="yes"/>
+      <point x="352.833" y="720.011"/>
+      <point x="321.411" y="750.144"/>
+      <point x="295.844" y="750.144" type="qcurve" smooth="yes"/>
+      <point x="263.133" y="750.144"/>
+      <point x="234.133" y="731.144" type="qcurve"/>
+      <point x="223.821" y="752.913" type="line"/>
+      <point x="238.688" y="763.635"/>
+      <point x="278.422" y="775.213"/>
+      <point x="296.578" y="775.213" type="qcurve" smooth="yes"/>
+      <point x="334.167" y="775.213"/>
+      <point x="379.479" y="734.19"/>
+      <point x="379.479" y="699.601" type="qcurve" smooth="yes"/>
+      <point x="379.479" y="668.3"/>
+      <point x="343.612" y="620.422"/>
+    </contour>
+  </outline>
+</glyph>

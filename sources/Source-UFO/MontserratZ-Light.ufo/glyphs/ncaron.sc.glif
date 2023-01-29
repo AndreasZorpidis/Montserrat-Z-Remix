@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ncaron.sc" format="2">
+  <advance width="695"/>
+  <anchor x="359" y="830" name="t.uni0308"/>
+  <anchor x="359" y="0" name="b.uni0324_3"/>
+  <outline>
+    <component base="n.sc"/>
+    <component base="uni030C" xScale="1" yScale="1" xOffset="47.3333" yOffset="40.6667"/>
+  </outline>
+</glyph>

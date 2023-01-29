@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJ" format="2">
+  <advance width="715"/>
+  <unicode hex="0132"/>
+  <anchor x="153" y="700" name="t.uni0308"/>
+  <outline>
+    <contour>
+      <point x="327" y="-3.86693" type="qcurve" smooth="yes"/>
+      <point x="265.122" y="-3.86693"/>
+      <point x="156.232" y="33.5665"/>
+      <point x="114.365" y="62.1445" type="qcurve"/>
+      <point x="130.989" y="89.1256" type="line"/>
+      <point x="171.567" y="59.9811"/>
+      <point x="272.289" y="27.1256"/>
+      <point x="328.144" y="27.1256" type="qcurve" smooth="yes"/>
+      <point x="435.966" y="27.1256"/>
+      <point x="559.198" y="160.068"/>
+      <point x="559.198" y="295.3" type="qcurve" smooth="yes"/>
+      <point x="559.198" y="700" type="line"/>
+      <point x="592.78" y="700" type="line"/>
+      <point x="592.78" y="295.312" type="line" smooth="yes"/>
+      <point x="592.78" y="195.589"/>
+      <point x="526.335" y="63"/>
+      <point x="407.734" y="-3.86693"/>
+    </contour>
+    <contour>
+      <point x="122.232" y="293.179" type="line"/>
+      <point x="122.232" y="700" type="line"/>
+      <point x="155.814" y="700" type="line"/>
+      <point x="155.814" y="293.179" type="line"/>
+    </contour>
+  </outline>
+</glyph>

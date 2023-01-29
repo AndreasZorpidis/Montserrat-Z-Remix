@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0447.loclBGR" format="2">
+  <advance width="635"/>
+  <outline>
+    <contour>
+      <point x="406.117" y="236.307" type="line"/>
+      <point x="391.704" y="202.067"/>
+      <point x="309.637" y="159.05"/>
+      <point x="246" y="159.05" type="qcurve" smooth="yes"/>
+      <point x="146.447" y="159.05"/>
+      <point x="34.8602" y="256.207"/>
+      <point x="34.8602" y="361.536" type="qcurve" smooth="yes"/>
+      <point x="34.8602" y="537.95" type="line"/>
+      <point x="190.476" y="537.95" type="line"/>
+      <point x="190.476" y="367.916" type="line" smooth="yes"/>
+      <point x="190.476" y="318.676"/>
+      <point x="245.179" y="275.609"/>
+      <point x="292.866" y="275.609" type="qcurve" smooth="yes"/>
+      <point x="325.916" y="275.609"/>
+      <point x="376.43" y="298.419"/>
+      <point x="404.307" y="337.47"/>
+      <point x="404.307" y="362.536" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="404.307" y="0" type="line"/>
+      <point x="404.307" y="537.95" type="line"/>
+      <point x="559.923" y="537.95" type="line"/>
+      <point x="559.923" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

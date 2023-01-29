@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="descendercy" format="2">
+  <advance width="330"/>
+  <outline>
+    <contour>
+      <point x="146.932" y="-112.554" type="line"/>
+      <point x="146.932" y="24.8922" type="line"/>
+      <point x="170.135" y="0" type="line"/>
+      <point x="58.2431" y="0" type="line"/>
+      <point x="58.2431" y="83.8797" type="line"/>
+      <point x="237.035" y="83.8797" type="line"/>
+      <point x="237.035" y="-112.554" type="line"/>
+    </contour>
+  </outline>
+</glyph>

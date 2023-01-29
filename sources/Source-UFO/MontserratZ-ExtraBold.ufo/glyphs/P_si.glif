@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Psi" format="2">
+  <advance width="925"/>
+  <unicode hex="03A8"/>
+  <outline>
+    <contour>
+      <point x="914.691" y="699" type="line"/>
+      <point x="916.691" y="524.654"/>
+      <point x="916.691" y="498.827" type="qcurve" smooth="yes"/>
+      <point x="916.691" y="400.758"/>
+      <point x="821.691" y="248.966"/>
+      <point x="636.174" y="175.586"/>
+      <point x="500.587" y="175.586" type="qcurve" smooth="yes"/>
+      <point x="497.898" y="175.586"/>
+      <point x="470.484" y="175.586"/>
+      <point x="443.759" y="175.586"/>
+      <point x="440.38" y="175.586" type="qcurve" smooth="yes"/>
+      <point x="300.035" y="175.586"/>
+      <point x="107.379" y="247.586"/>
+      <point x="8.31033" y="399.069"/>
+      <point x="8.31033" y="498.827" type="qcurve" smooth="yes"/>
+      <point x="8.31033" y="695.348"/>
+      <point x="11.931" y="699" type="qcurve"/>
+      <point x="202.692" y="699" type="line"/>
+      <point x="200.002" y="525.896"/>
+      <point x="200.002" y="498.827" type="qcurve" smooth="yes"/>
+      <point x="200.002" y="442.69"/>
+      <point x="258.829" y="359.484"/>
+      <point x="374.38" y="327.346"/>
+      <point x="458.587" y="327.346" type="qcurve" smooth="yes"/>
+      <point x="461.277" y="327.346"/>
+      <point x="474.484" y="327.346"/>
+      <point x="476.863" y="327.346" type="qcurve"/>
+      <point x="563.449" y="327.657"/>
+      <point x="673.241" y="361.484"/>
+      <point x="725.31" y="444.69"/>
+      <point x="725.31" y="499.827" type="qcurve" smooth="yes"/>
+      <point x="725.31" y="523.516"/>
+      <point x="723.31" y="699" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="371.724" y="-33.207" type="line"/>
+      <point x="371.724" y="732.517" type="line"/>
+      <point x="553.588" y="732.517" type="line"/>
+      <point x="553.588" y="-33.207" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="350"/>
+  <guideline angle="0" x="0" y="939"/>
+</glyph>

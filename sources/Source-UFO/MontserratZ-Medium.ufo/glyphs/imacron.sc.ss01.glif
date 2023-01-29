@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imacron.sc.ss01" format="2">
+  <advance width="426"/>
+  <anchor x="251" y="810" name="t.uni0308"/>
+  <anchor x="251" y="0" name="b.uni0324_3"/>
+  <anchor x="411" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="i.sc.ss01"/>
+    <component base="uni0304.narrow" xyScale="-1.64654e-18" yScale="1" xOffset="-86.3308" yOffset="38.6216"/>
+  </outline>
+</glyph>

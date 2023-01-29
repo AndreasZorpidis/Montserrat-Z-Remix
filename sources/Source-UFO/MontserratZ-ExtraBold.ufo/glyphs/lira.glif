@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lira" format="2">
+  <advance width="681"/>
+  <unicode hex="20A4"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="30" y="153.484" type="line"/>
+      <point x="647.897" y="153.484" type="line"/>
+      <point x="647.897" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="125.276" y="18.4484" type="line"/>
+      <point x="125.276" y="413.034" type="line" smooth="yes"/>
+      <point x="125.276" y="508.517"/>
+      <point x="205.552" y="643"/>
+      <point x="358.104" y="713.828"/>
+      <point x="465.828" y="713.828" type="qcurve" smooth="yes"/>
+      <point x="527.518" y="713.828"/>
+      <point x="631.484" y="690.828"/>
+      <point x="670.104" y="669.276" type="qcurve"/>
+      <point x="611.724" y="517.033" type="line"/>
+      <point x="581.173" y="535.206"/>
+      <point x="510.346" y="550.447"/>
+      <point x="476.208" y="550.447" type="qcurve" smooth="yes"/>
+      <point x="402.691" y="550.447"/>
+      <point x="323.415" y="484.378"/>
+      <point x="323.415" y="416.792" type="qcurve" smooth="yes"/>
+      <point x="323.415" y="18.4484" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="232.448" type="line"/>
+      <point x="30" y="329.552" type="line"/>
+      <point x="548.932" y="329.552" type="line"/>
+      <point x="548.932" y="232.448" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="370.448" type="line"/>
+      <point x="30" y="467.552" type="line"/>
+      <point x="548.932" y="467.552" type="line"/>
+      <point x="548.932" y="370.448" type="line"/>
+    </contour>
+  </outline>
+</glyph>

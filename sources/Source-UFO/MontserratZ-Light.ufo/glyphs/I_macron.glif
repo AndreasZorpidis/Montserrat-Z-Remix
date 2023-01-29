@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Imacron" format="2">
+  <advance width="295"/>
+  <unicode hex="012A"/>
+  <anchor x="189" y="700" name="t.uni0308"/>
+  <anchor x="189" y="0" name="b.uni0324_3"/>
+  <anchor x="354" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="I"/>
+    <component base="uni0304.narrow.case" xyScale="-1.95402e-20" xOffset="-152.333" yOffset="0.666676"/>
+  </outline>
+</glyph>

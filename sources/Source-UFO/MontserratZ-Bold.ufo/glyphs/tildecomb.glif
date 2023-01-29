@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb" format="2">
+  <unicode hex="0303"/>
+  <anchor x="300" y="556.05" name="_t.uni0308"/>
+  <anchor x="300" y="556.05" name="_t.uni0308_2"/>
+  <anchor x="300" y="556.05" name="_m.uni0308"/>
+  <anchor x="300" y="779.564" name="m.uni0308"/>
+  <outline>
+    <contour>
+      <point x="374.967" y="603.637" type="qcurve" smooth="yes"/>
+      <point x="349.38" y="603.637"/>
+      <point x="309.397" y="622.843"/>
+      <point x="276.81" y="648.257"/>
+      <point x="249.413" y="667.464"/>
+      <point x="235.413" y="667.464" type="qcurve" smooth="yes"/>
+      <point x="214.603" y="667.464"/>
+      <point x="189.397" y="637.843"/>
+      <point x="187.397" y="611.223" type="qcurve"/>
+      <point x="108.15" y="611.223" type="line"/>
+      <point x="110.15" y="678.157"/>
+      <point x="171.894" y="757.073"/>
+      <point x="225.033" y="757.073" type="qcurve" smooth="yes"/>
+      <point x="250.62" y="757.073"/>
+      <point x="291.207" y="737.866"/>
+      <point x="323.793" y="712.453"/>
+      <point x="351.587" y="693.246"/>
+      <point x="364.587" y="693.246" type="qcurve" smooth="yes"/>
+      <point x="385.793" y="693.246"/>
+      <point x="411.603" y="721.866"/>
+      <point x="412.603" y="747.09" type="qcurve"/>
+      <point x="491.85" y="747.09" type="line"/>
+      <point x="490.85" y="683.157"/>
+      <point x="428.106" y="603.637"/>
+    </contour>
+  </outline>
+</glyph>

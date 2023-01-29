@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilondieresis" format="2">
+  <advance width="496"/>
+  <unicode hex="03CB"/>
+  <anchor x="460.666" y="593" name="t.uni031B_2"/>
+  <anchor x="265.666" y="0" name="b.uni0324_3"/>
+  <anchor x="482.666" y="0" name="m.uni0328_4"/>
+  <anchor x="265.666" y="824" name="m.uni0308"/>
+  <outline>
+    <contour>
+      <point x="253" y="-4.99994" type="qcurve" smooth="yes"/>
+      <point x="181" y="-4.99994"/>
+      <point x="77.0001" y="50.3333"/>
+      <point x="21.3335" y="159"/>
+      <point x="21.3335" y="238" type="qcurve" smooth="yes"/>
+      <point x="21.3335" y="521.667" type="line"/>
+      <point x="71.666" y="521.667" type="line"/>
+      <point x="71.666" y="239.667" type="line" smooth="yes"/>
+      <point x="71.666" y="139"/>
+      <point x="166.666" y="39.666"/>
+      <point x="253.333" y="39.666" type="qcurve" smooth="yes"/>
+      <point x="340" y="39.666"/>
+      <point x="434.667" y="138.666"/>
+      <point x="434.667" y="239.667" type="qcurve" smooth="yes"/>
+      <point x="434.667" y="521.667" type="line"/>
+      <point x="484.333" y="521.667" type="line"/>
+      <point x="484.333" y="238" type="line" smooth="yes"/>
+      <point x="484.333" y="159"/>
+      <point x="429" y="50.3333"/>
+      <point x="325" y="-4.99994"/>
+    </contour>
+    <contour>
+      <point x="339.666" y="619.667" type="qcurve" smooth="yes"/>
+      <point x="325.333" y="619.667"/>
+      <point x="303.667" y="640.667"/>
+      <point x="303.667" y="655.666" type="qcurve" smooth="yes"/>
+      <point x="303.667" y="671.333"/>
+      <point x="325.333" y="691.666"/>
+      <point x="339.666" y="691.666" type="qcurve" smooth="yes"/>
+      <point x="354.666" y="691.666"/>
+      <point x="375.666" y="671.333"/>
+      <point x="375.666" y="655.666" type="qcurve" smooth="yes"/>
+      <point x="375.666" y="640.667"/>
+      <point x="354.666" y="619.667"/>
+    </contour>
+    <contour>
+      <point x="167" y="619.667" type="qcurve" smooth="yes"/>
+      <point x="152.667" y="619.667"/>
+      <point x="131" y="640.667"/>
+      <point x="131" y="655.666" type="qcurve" smooth="yes"/>
+      <point x="131" y="671.333"/>
+      <point x="152.667" y="691.666"/>
+      <point x="167" y="691.666" type="qcurve" smooth="yes"/>
+      <point x="182" y="691.666"/>
+      <point x="203" y="671.333"/>
+      <point x="203" y="655.666" type="qcurve" smooth="yes"/>
+      <point x="203" y="640.667"/>
+      <point x="182" y="619.667"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>upsilon+uni0308</string>
+  </dict>
+  </lib>
+</glyph>

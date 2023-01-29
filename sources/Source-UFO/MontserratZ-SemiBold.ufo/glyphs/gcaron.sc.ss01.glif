@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gcaron.sc.ss01" format="2">
+  <advance width="656"/>
+  <anchor x="378.189" y="826.048" name="t.uni0308"/>
+  <anchor x="358.965" y="3.87061" name="b.uni0324_3"/>
+  <outline>
+    <component base="g.sc.ss01"/>
+    <component base="uni030C" xyScale="2.74354e-19" yScale="1" xOffset="51.1997" yOffset="38.6118"/>
+  </outline>
+</glyph>

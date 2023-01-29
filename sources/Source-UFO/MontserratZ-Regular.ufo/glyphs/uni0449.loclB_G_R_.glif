@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0449.loclBGR" format="2">
+  <advance width="1075"/>
+  <anchor x="499" y="560" name="t.uni0308"/>
+  <outline>
+    <component base="uni0448.loclBGR"/>
+    <component base="descendercy" xScale="1" xOffset="824.01"/>
+  </outline>
+</glyph>

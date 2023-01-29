@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotadieresis" format="2">
+  <advance width="326"/>
+  <unicode hex="03CA"/>
+  <anchor x="163" y="0" name="b.uni0324_3"/>
+  <anchor x="276" y="0" name="m.uni0328_4"/>
+  <anchor x="163" y="740" name="m.uni0308"/>
+  <outline>
+    <contour>
+      <point x="275" y="607" type="qcurve" smooth="yes"/>
+      <point x="237" y="607"/>
+      <point x="185" y="655"/>
+      <point x="185" y="695" type="qcurve" smooth="yes"/>
+      <point x="185" y="735"/>
+      <point x="237" y="784"/>
+      <point x="275" y="784" type="qcurve" smooth="yes"/>
+      <point x="313" y="784"/>
+      <point x="365" y="735"/>
+      <point x="365" y="695" type="qcurve" smooth="yes"/>
+      <point x="365" y="655"/>
+      <point x="313" y="607"/>
+    </contour>
+    <contour>
+      <point x="53" y="607" type="qcurve" smooth="yes"/>
+      <point x="15" y="607"/>
+      <point x="-37" y="655"/>
+      <point x="-37" y="695" type="qcurve" smooth="yes"/>
+      <point x="-37" y="735"/>
+      <point x="15" y="784"/>
+      <point x="53" y="784" type="qcurve" smooth="yes"/>
+      <point x="91" y="784"/>
+      <point x="143" y="735"/>
+      <point x="143" y="695" type="qcurve" smooth="yes"/>
+      <point x="143" y="655"/>
+      <point x="91" y="607"/>
+    </contour>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="50" y="547" type="line"/>
+      <point x="276" y="547" type="line"/>
+      <point x="276" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>iota+uni0308</string>
+  </dict>
+  </lib>
+</glyph>

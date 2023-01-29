@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aeacute.sc.ss01" format="2">
+  <advance width="942"/>
+  <anchor x="491.257" y="822.15" name="t.uni0308"/>
+  <anchor x="491.257" y="0" name="b.uni0324_3"/>
+  <outline>
+    <component base="ae.sc.ss01"/>
+    <component base="acutecomb" xScale="1" xyScale="2.09241e-18" xOffset="167.726" yOffset="36.81"/>
+  </outline>
+</glyph>

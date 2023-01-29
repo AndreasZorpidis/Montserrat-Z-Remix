@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright.case" format="2">
+  <advance width="319"/>
+  <outline>
+    <component base="guilsinglright" xyScale="2.31168e-18" yScale="1" xOffset="10" yOffset="81.3349"/>
+  </outline>
+</glyph>

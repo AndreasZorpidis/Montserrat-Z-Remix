@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflex.sc" format="2">
+  <advance width="696"/>
+  <anchor x="371" y="830" name="t.uni0308"/>
+  <anchor x="371" y="296" name="t.uni0307_1"/>
+  <anchor x="468" y="593" name="t.uni031B_2"/>
+  <anchor x="371" y="0" name="b.uni0324_3"/>
+  <anchor x="516" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="uni0302" xScale="1" xyScale="5.88643e-19" xOffset="48.0114" yOffset="41.422"/>
+  </outline>
+</glyph>

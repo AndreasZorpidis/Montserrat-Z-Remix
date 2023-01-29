@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044A.loclBGR" format="2">
+  <advance width="733"/>
+  <outline>
+    <contour>
+      <point x="187.759" y="391.171" type="line"/>
+      <point x="10.4484" y="391.171" type="line"/>
+      <point x="10.4484" y="542.345" type="line"/>
+      <point x="359.554" y="542.345" type="line"/>
+    </contour>
+    <contour>
+      <point x="439.415" y="-13.8277" type="qcurve" smooth="yes"/>
+      <point x="304.345" y="-13.8277"/>
+      <point x="170.241" y="102.69"/>
+      <point x="170.241" y="215.104" type="qcurve" smooth="yes"/>
+      <point x="170.241" y="542.345" type="line"/>
+      <point x="359.554" y="542.345" type="line"/>
+      <point x="359.554" y="367.38" type="line"/>
+      <point x="378.174" y="381.346"/>
+      <point x="448.519" y="401.931"/>
+      <point x="498.932" y="401.931" type="qcurve" smooth="yes"/>
+      <point x="563.932" y="401.931"/>
+      <point x="660.07" y="359"/>
+      <point x="713.208" y="270.173"/>
+      <point x="713.208" y="202.207" type="qcurve" smooth="yes"/>
+      <point x="713.208" y="130.931"/>
+      <point x="645.174" y="34.793"/>
+      <point x="522.311" y="-13.8277"/>
+    </contour>
+    <contour>
+      <point x="439.035" y="116.76" type="qcurve" smooth="yes"/>
+      <point x="467.552" y="116.76"/>
+      <point x="502.862" y="138.415"/>
+      <point x="519.827" y="175.173"/>
+      <point x="519.827" y="198.207" type="qcurve" smooth="yes"/>
+      <point x="519.827" y="234.103"/>
+      <point x="480.966" y="277.103"/>
+      <point x="441.725" y="277.103" type="qcurve" smooth="yes"/>
+      <point x="412.967" y="277.103"/>
+      <point x="371.726" y="257.276"/>
+      <point x="359.554" y="240.069" type="qcurve"/>
+      <point x="359.554" y="197.517" type="line" smooth="yes"/>
+      <point x="359.554" y="161.759"/>
+      <point x="399.036" y="116.76"/>
+    </contour>
+  </outline>
+</glyph>

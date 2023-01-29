@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aeacute.ss01" format="2">
+  <advance width="999"/>
+  <anchor x="476.448" y="775.206" name="t.uni0308"/>
+  <outline>
+    <component base="ae.ss01"/>
+    <component base="acutecomb" xScale="1" xOffset="179.862"/>
+  </outline>
+</glyph>

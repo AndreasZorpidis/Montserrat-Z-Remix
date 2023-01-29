@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcaron.ss01" format="2">
+  <advance width="684"/>
+  <anchor x="347" y="701" name="t.uni0308"/>
+  <anchor x="341" y="300" name="t.uni0307_1"/>
+  <anchor x="342" y="0" name="b.uni0324_3"/>
+  <outline>
+    <component base="T.ss01"/>
+    <component base="uni030C.case" xOffset="47" yOffset="1"/>
+  </outline>
+</glyph>

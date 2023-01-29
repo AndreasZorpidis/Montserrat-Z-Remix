@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered.loclCAT" format="2">
+  <advance width="129"/>
+  <anchor x="152" y="309" name="_t.periodcentered.loclCAT"/>
+  <outline>
+    <contour>
+      <point x="102.737" y="220.574" type="qcurve" smooth="yes"/>
+      <point x="78.3784" y="220.574"/>
+      <point x="45.4862" y="254.311"/>
+      <point x="45.4862" y="277.825" type="qcurve" smooth="yes"/>
+      <point x="45.4862" y="301.494"/>
+      <point x="78.3784" y="335.075"/>
+      <point x="102.737" y="335.075" type="qcurve" smooth="yes"/>
+      <point x="127.251" y="335.075"/>
+      <point x="159.987" y="301.494"/>
+      <point x="159.987" y="277.825" type="qcurve" smooth="yes"/>
+      <point x="159.987" y="254.311"/>
+      <point x="127.251" y="220.574"/>
+    </contour>
+  </outline>
+</glyph>

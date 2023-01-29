@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ustraitcy" format="2">
+  <advance width="688"/>
+  <unicode hex="04AE"/>
+  <anchor x="407.377" y="700" name="t.uni0308"/>
+  <anchor x="398.765" y="275.577" name="t.uni0307_1"/>
+  <anchor x="407.377" y="0" name="b.uni0324_3"/>
+  <outline>
+    <contour>
+      <point x="278.93" y="0" type="line"/>
+      <point x="278.93" y="276.529" type="line"/>
+      <point x="308.553" y="197.342" type="line"/>
+      <point x="4.48243" y="700" type="line"/>
+      <point x="142.915" y="700" type="line"/>
+      <point x="387.516" y="294.952" type="line"/>
+      <point x="309.553" y="294.952" type="line"/>
+      <point x="555.283" y="700" type="line"/>
+      <point x="683.163" y="700" type="line"/>
+      <point x="379.351" y="197.342" type="line"/>
+      <point x="408.716" y="276.529" type="line"/>
+      <point x="408.716" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

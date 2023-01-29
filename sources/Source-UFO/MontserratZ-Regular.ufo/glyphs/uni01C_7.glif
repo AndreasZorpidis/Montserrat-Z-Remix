@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C7" format="2">
+  <advance width="1090"/>
+  <unicode hex="01C7"/>
+  <anchor x="506" y="480" name="t.periodcentered.loclCAT"/>
+  <anchor x="189" y="419" name="t.uni0307_1"/>
+  <anchor x="413" y="700" name="t.uni031B_2"/>
+  <anchor x="338" y="0" name="b.uni0324_3"/>
+  <anchor x="189" y="700" name="t.uni0308_2_ligComponent_1"/>
+  <anchor x="956" y="700" name="t.uni0308_2_ligComponent_2"/>
+  <outline>
+    <component base="L"/>
+    <component base="J" xOffset="589.064"/>
+  </outline>
+</glyph>

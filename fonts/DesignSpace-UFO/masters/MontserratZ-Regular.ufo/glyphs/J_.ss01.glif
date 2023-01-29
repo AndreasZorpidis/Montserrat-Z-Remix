@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J.ss01" format="2">
+  <advance width="517"/>
+  <anchor x="320" y="700" name="t.uni0308"/>
+  <outline>
+    <contour>
+      <point x="195" y="-109" type="qcurve" smooth="yes"/>
+      <point x="131" y="-109"/>
+      <point x="24" y="-57"/>
+      <point x="-11" y="-8" type="qcurve"/>
+      <point x="52" y="71" type="line"/>
+      <point x="81" y="31"/>
+      <point x="151" y="-10"/>
+      <point x="193" y="-10" type="qcurve" smooth="yes"/>
+      <point x="309" y="-10"/>
+      <point x="309" y="125" type="qcurve" smooth="yes"/>
+      <point x="309" y="601" type="line"/>
+      <point x="58" y="601" type="line"/>
+      <point x="58" y="700" type="line"/>
+      <point x="423" y="700" type="line"/>
+      <point x="423" y="131" type="line" smooth="yes"/>
+      <point x="423" y="10"/>
+      <point x="307" y="-109"/>
+    </contour>
+  </outline>
+</glyph>

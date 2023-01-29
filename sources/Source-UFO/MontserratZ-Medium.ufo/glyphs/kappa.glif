@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kappa" format="2">
+  <advance width="616"/>
+  <unicode hex="03BA"/>
+  <anchor x="180" y="537.358" name="t.uni0308"/>
+  <anchor x="341" y="562" name="t.uni031B_2"/>
+  <anchor x="330" y="0" name="b.uni0324_3"/>
+  <outline>
+    <contour>
+      <point x="168.541" y="127.817" type="line"/>
+      <point x="171.075" y="250.637" type="line"/>
+      <point x="475.506" y="529.669" type="line"/>
+      <point x="592.346" y="529.669" type="line"/>
+      <point x="358.055" y="300.02" type="line"/>
+      <point x="305.737" y="255.925" type="line"/>
+    </contour>
+    <contour>
+      <point x="91.3509" y="0" type="line"/>
+      <point x="91.3509" y="537.358" type="line"/>
+      <point x="187.366" y="537.358" type="line"/>
+      <point x="187.366" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="496.439" y="0" type="line"/>
+      <point x="288.223" y="257.546" type="line"/>
+      <point x="349.832" y="334.581" type="line"/>
+      <point x="613.657" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>k%</string>
+  </dict>
+  </lib>
+</glyph>

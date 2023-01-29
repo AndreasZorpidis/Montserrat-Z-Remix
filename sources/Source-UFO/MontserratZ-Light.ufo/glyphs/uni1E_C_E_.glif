@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ECE" format="2">
+  <advance width="838"/>
+  <unicode hex="1ECE"/>
+  <anchor x="427" y="700" name="t.uni0308"/>
+  <anchor x="427" y="350" name="t.uni0307_1"/>
+  <anchor x="556" y="700" name="t.uni031B_2"/>
+  <anchor x="427" y="0" name="b.uni0324_3"/>
+  <anchor x="581" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="O"/>
+    <component base="hookabovecomb.case" xOffset="119"/>
+  </outline>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Psi" format="2">
+  <advance width="827"/>
+  <unicode hex="03A8"/>
+  <outline>
+    <contour>
+      <point x="816.72" y="697.266" type="line"/>
+      <point x="817.853" y="570.606"/>
+      <point x="817.853" y="541.31" type="qcurve" smooth="yes"/>
+      <point x="817.853" y="438.374"/>
+      <point x="724.587" y="263.842"/>
+      <point x="549.789" y="176.236"/>
+      <point x="425.256" y="176.236" type="qcurve" smooth="yes"/>
+      <point x="423.69" y="176.236"/>
+      <point x="414.325" y="176.236"/>
+      <point x="405.394" y="176.236"/>
+      <point x="403.828" y="176.236" type="qcurve" smooth="yes"/>
+      <point x="279.03" y="176.236"/>
+      <point x="102.966" y="263.842"/>
+      <point x="9.43349" y="438.241"/>
+      <point x="9.43349" y="541.31" type="qcurve" smooth="yes"/>
+      <point x="9.43349" y="564.941"/>
+      <point x="12.266" y="697.266" type="qcurve"/>
+      <point x="82.1187" y="697.266" type="line"/>
+      <point x="80.9857" y="572.872"/>
+      <point x="80.9857" y="541.31" type="qcurve" smooth="yes"/>
+      <point x="80.9857" y="454.571"/>
+      <point x="159.754" y="306.734"/>
+      <point x="308.291" y="234.892"/>
+      <point x="412.793" y="234.892" type="qcurve" smooth="yes"/>
+      <point x="414.36" y="234.892"/>
+      <point x="418.759" y="234.892"/>
+      <point x="419.325" y="234.892" type="qcurve"/>
+      <point x="524.394" y="235.892"/>
+      <point x="670.365" y="308.3"/>
+      <point x="746.867" y="456.138"/>
+      <point x="746.867" y="541.877" type="qcurve" smooth="yes"/>
+      <point x="746.867" y="572.305"/>
+      <point x="745.734" y="697.266" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="379.567" y="-23.9656" type="line"/>
+      <point x="379.567" y="723.966" type="line"/>
+      <point x="448.286" y="723.966" type="line"/>
+      <point x="448.286" y="-23.9656" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="350"/>
+  <guideline angle="0" x="0" y="939"/>
+</glyph>

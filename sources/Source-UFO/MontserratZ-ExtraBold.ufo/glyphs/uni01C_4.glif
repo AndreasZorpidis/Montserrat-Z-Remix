@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C4" format="2">
+  <advance width="1445"/>
+  <unicode hex="01C4"/>
+  <anchor x="206.931" y="355" name="t.uni0307_1"/>
+  <anchor x="354.655" y="700" name="t.uni0308_2_ligComponent_1"/>
+  <anchor x="356.345" y="0" name="m.uni0324_1_ligComponent_1"/>
+  <anchor x="1109.9" y="700" name="t.uni0308_2_ligComponent_2"/>
+  <anchor x="1108.35" y="0" name="m.uni0324_1_ligComponent_2"/>
+  <outline>
+    <component base="D"/>
+    <component base="Zcaron" xScale="1" xOffset="768"/>
+  </outline>
+</glyph>

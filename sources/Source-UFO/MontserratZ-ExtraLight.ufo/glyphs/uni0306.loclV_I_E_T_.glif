@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0306.loclVIET" format="2">
+  <outline>
+    <contour>
+      <point x="300" y="603.567" type="qcurve" smooth="yes"/>
+      <point x="244.688" y="603.567"/>
+      <point x="169.654" y="648.734"/>
+      <point x="162.798" y="690.468" type="qcurve"/>
+      <point x="189.601" y="690.468" type="line"/>
+      <point x="196.023" y="660.624"/>
+      <point x="255.011" y="628.346"/>
+      <point x="300" y="628.346" type="qcurve" smooth="yes"/>
+      <point x="344.989" y="628.346"/>
+      <point x="403.977" y="660.624"/>
+      <point x="410.399" y="690.468" type="qcurve"/>
+      <point x="437.202" y="690.468" type="line"/>
+      <point x="430.346" y="648.734"/>
+      <point x="355.312" y="603.567"/>
+    </contour>
+  </outline>
+</glyph>

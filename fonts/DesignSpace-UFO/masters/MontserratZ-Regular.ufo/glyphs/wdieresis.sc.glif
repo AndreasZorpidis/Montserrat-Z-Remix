@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wdieresis.sc" format="2">
+  <advance width="967"/>
+  <anchor x="555" y="824" name="t.uni0308"/>
+  <anchor x="555" y="0" name="b.uni0324_3"/>
+  <outline>
+    <component base="w.sc"/>
+    <component base="uni0308" xOffset="184" yOffset="38"/>
+  </outline>
+</glyph>

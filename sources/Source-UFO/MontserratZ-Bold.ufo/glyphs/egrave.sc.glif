@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="egrave.sc" format="2">
+  <advance width="578"/>
+  <anchor x="300.793" y="822.15" name="t.uni0308"/>
+  <anchor x="294.57" y="0" name="b.uni0324_3"/>
+  <anchor x="576.687" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="e.sc"/>
+    <component base="gravecomb" xScale="1" xyScale="2.09241e-18" xOffset="3.20669" yOffset="36.81"/>
+  </outline>
+</glyph>

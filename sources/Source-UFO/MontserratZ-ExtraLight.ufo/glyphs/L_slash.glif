@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="2">
+  <advance width="584"/>
+  <unicode hex="0141"/>
+  <anchor x="218" y="700" name="t.uni0308"/>
+  <anchor x="535" y="480" name="t.periodcentered.loclCAT"/>
+  <anchor x="218" y="419" name="t.uni0307_1"/>
+  <anchor x="442" y="700" name="t.uni031B_2"/>
+  <anchor x="367" y="0" name="b.uni0324_3"/>
+  <outline>
+    <component base="L" xOffset="1.30039"/>
+    <component base="uni0337.case" xyScale="5.06606e-19" xOffset="-15.924" yOffset="-15.8441"/>
+  </outline>
+</glyph>

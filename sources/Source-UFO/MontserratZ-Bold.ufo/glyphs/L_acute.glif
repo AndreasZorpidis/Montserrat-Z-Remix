@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lacute" format="2">
+  <advance width="604"/>
+  <unicode hex="0139"/>
+  <anchor x="183.447" y="700" name="t.uni0308"/>
+  <anchor x="497.274" y="464.53" name="t.periodcentered.loclCAT"/>
+  <anchor x="183.447" y="411.464" name="t.uni0307_1"/>
+  <anchor x="416.967" y="700" name="t.uni031B_2"/>
+  <anchor x="340.777" y="0" name="b.uni0324_3"/>
+  <outline>
+    <component base="L"/>
+    <component base="acutecomb.case" xOffset="-135.86"/>
+  </outline>
+</glyph>

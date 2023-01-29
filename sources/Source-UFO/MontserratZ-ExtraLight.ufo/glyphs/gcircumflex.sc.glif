@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gcircumflex.sc" format="2">
+  <advance width="648"/>
+  <anchor x="380" y="832" name="t.uni0308"/>
+  <anchor x="360" y="0" name="b.uni0324_3"/>
+  <outline>
+    <component base="g.sc"/>
+    <component base="uni0302" xyScale="5.90696e-19" yScale="1" xOffset="37.0228" yOffset="41.5665"/>
+  </outline>
+</glyph>

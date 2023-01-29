@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igrave.sc" format="2">
+  <advance width="290"/>
+  <anchor x="183" y="840" name="t.uni0308"/>
+  <anchor x="183" y="0" name="b.uni0324_3"/>
+  <anchor x="344" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="gravecomb" xyScale="-1.64654e-18" yScale="1" xOffset="-155.331" yOffset="38.6216"/>
+  </outline>
+</glyph>

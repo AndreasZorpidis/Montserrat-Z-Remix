@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ubreve.sc.ss01" format="2">
+  <advance width="688"/>
+  <anchor x="355" y="830" name="t.uni0308"/>
+  <anchor x="546" y="593" name="t.uni031B_2"/>
+  <anchor x="355" y="0" name="b.uni0324_3"/>
+  <anchor x="688" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="u.sc.ss01"/>
+    <component base="uni0306" xOffset="42" yOffset="38"/>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotatonos" format="2">
+  <advance width="196"/>
+  <unicode hex="03AF"/>
+  <anchor x="132.436" y="556.05" name="t.uni0308"/>
+  <anchor x="132.436" y="0" name="b.uni0324_3"/>
+  <anchor x="272.587" y="0" name="m.uni0328_4"/>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="20" y="537.95" type="line"/>
+      <point x="176.012" y="537.95" type="line"/>
+      <point x="176.012" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="49.8663" y="607" type="line"/>
+      <point x="100.403" y="751.313" type="line"/>
+      <point x="250.169" y="751.313" type="line"/>
+      <point x="152.733" y="607" type="line"/>
+    </contour>
+  </outline>
+</glyph>

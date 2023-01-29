@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticalbarcy.case" format="2">
+  <advance width="301"/>
+  <outline>
+    <contour>
+      <point x="241.518" y="35.3451" type="line"/>
+      <point x="241.518" y="-141.345" type="line"/>
+      <point x="59.6545" y="-141.345" type="line"/>
+      <point x="59.6545" y="35.3451" type="line"/>
+    </contour>
+  </outline>
+</glyph>

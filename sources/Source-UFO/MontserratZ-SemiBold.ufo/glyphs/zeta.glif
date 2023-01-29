@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zeta" format="2">
+  <advance width="507"/>
+  <unicode hex="03B6"/>
+  <anchor x="217.775" y="591.577" name="t.uni0308"/>
+  <anchor x="217.775" y="0" name="b.uni0324_3"/>
+  <anchor x="470.057" y="0" name="m.uni0328_4"/>
+  <outline>
+    <contour>
+      <point x="480.468" y="636.411" type="line"/>
+      <point x="52.7284" y="136.917"/>
+      <point x="251.562" y="114.305" type="qcurve" smooth="yes"/>
+      <point x="499.279" y="85.599"/>
+      <point x="373.986" y="-182.176" type="qcurve"/>
+      <point x="277.057" y="-182.176" type="line"/>
+      <point x="384.858" y="-3.14056"/>
+      <point x="212.505" y="0.611823" type="qcurve"/>
+      <point x="55.2365" y="6.30509"/>
+      <point x="25.4585" y="281.573"/>
+      <point x="329.257" y="636.411" type="qcurve"/>
+      <point x="37.9297" y="636.411" type="line"/>
+      <point x="37.9297" y="737.244" type="line"/>
+      <point x="480.468" y="737.244" type="line"/>
+      <point x="480.468" y="636.411" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="55" y="0"/>
+</glyph>

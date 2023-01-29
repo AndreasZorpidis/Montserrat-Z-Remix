@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb.loclVIET" format="2">
+  <outline>
+    <contour>
+      <point x="372.518" y="608.318" type="qcurve" smooth="yes"/>
+      <point x="339.129" y="608.318"/>
+      <point x="290.741" y="635.059"/>
+      <point x="252.871" y="661.8"/>
+      <point x="234.518" y="661.8" type="qcurve" smooth="yes"/>
+      <point x="213.165" y="661.8"/>
+      <point x="191.906" y="636.189"/>
+      <point x="190.776" y="613.835" type="qcurve"/>
+      <point x="123.436" y="613.835" type="line"/>
+      <point x="124.307" y="668.294"/>
+      <point x="180.895" y="728.011"/>
+      <point x="229.224" y="728.011" type="qcurve" smooth="yes"/>
+      <point x="261.741" y="728.011"/>
+      <point x="309.388" y="701.27"/>
+      <point x="348.259" y="674.529"/>
+      <point x="366.612" y="674.529" type="qcurve" smooth="yes"/>
+      <point x="388.224" y="674.529"/>
+      <point x="410.353" y="700.399"/>
+      <point x="411.353" y="721.623" type="qcurve"/>
+      <point x="476.564" y="721.623" type="line"/>
+      <point x="475.693" y="669.165"/>
+      <point x="420.494" y="608.318"/>
+    </contour>
+  </outline>
+</glyph>

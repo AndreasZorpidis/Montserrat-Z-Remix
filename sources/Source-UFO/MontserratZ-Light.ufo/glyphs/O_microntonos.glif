@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omicrontonos" format="2">
+  <advance width="838"/>
+  <unicode hex="038C"/>
+  <anchor x="427" y="700" name="t.uni0308"/>
+  <anchor x="427" y="350" name="t.uni0307_1"/>
+  <anchor x="556" y="700" name="t.uni031B_2"/>
+  <anchor x="427" y="0" name="b.uni0324_3"/>
+  <anchor x="581" y="0" name="m.uni0328_4"/>
+  <outline>
+    <contour>
+      <point x="419" y="-4.99994" type="qcurve" smooth="yes"/>
+      <point x="340.667" y="-4.99994"/>
+      <point x="207.667" y="48.3334"/>
+      <point x="109.333" y="144.667"/>
+      <point x="54.6668" y="273.667"/>
+      <point x="54.6668" y="350" type="qcurve" smooth="yes"/>
+      <point x="54.6668" y="426.333"/>
+      <point x="109.333" y="555.333"/>
+      <point x="207.667" y="651.667"/>
+      <point x="340.667" y="705"/>
+      <point x="419" y="705" type="qcurve" smooth="yes"/>
+      <point x="497.333" y="705"/>
+      <point x="630" y="652"/>
+      <point x="728.333" y="555.667"/>
+      <point x="783" y="426.667"/>
+      <point x="783" y="350" type="qcurve" smooth="yes"/>
+      <point x="783" y="273.333"/>
+      <point x="728.333" y="144.333"/>
+      <point x="630" y="48.0001"/>
+      <point x="497.333" y="-4.99994"/>
+    </contour>
+    <contour>
+      <point x="419" y="41.6659" type="qcurve" smooth="yes"/>
+      <point x="485.667" y="41.6659"/>
+      <point x="599.667" y="87.666"/>
+      <point x="684.334" y="171.666"/>
+      <point x="731.334" y="283.667"/>
+      <point x="731.334" y="350" type="qcurve" smooth="yes"/>
+      <point x="731.334" y="416.667"/>
+      <point x="684.334" y="528.334"/>
+      <point x="599.667" y="612.334"/>
+      <point x="485.667" y="658.334"/>
+      <point x="419" y="658.334" type="qcurve" smooth="yes"/>
+      <point x="352.333" y="658.334"/>
+      <point x="238" y="612.334"/>
+      <point x="153.333" y="528.334"/>
+      <point x="106.333" y="416.667"/>
+      <point x="106.333" y="350" type="qcurve" smooth="yes"/>
+      <point x="106.333" y="283.667"/>
+      <point x="153.333" y="171.666"/>
+      <point x="238" y="87.666"/>
+      <point x="352.333" y="41.6659"/>
+    </contour>
+    <contour>
+      <point x="18.0001" y="607" type="line"/>
+      <point x="57.0001" y="725" type="line"/>
+      <point x="117.666" y="725" type="line"/>
+      <point x="60.3328" y="607" type="line"/>
+    </contour>
+  </outline>
+</glyph>

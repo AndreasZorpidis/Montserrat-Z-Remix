@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lacute.ss01" format="2">
+  <advance width="368"/>
+  <anchor x="168.276" y="965.551" name="t.uni0308"/>
+  <anchor x="438.344" y="373.103" name="t.periodcentered.loclCAT"/>
+  <anchor x="168.276" y="373.103" name="t.uni0307_1"/>
+  <anchor x="361.206" y="742" name="t.uni031B_2"/>
+  <anchor x="238.207" y="0" name="b.uni0324_3"/>
+  <outline>
+    <component base="l.ss01"/>
+    <component base="acutecomb" xyScale="-5.67453e-18" yScale="1" xOffset="-143.517" yOffset="199.655"/>
+  </outline>
+</glyph>

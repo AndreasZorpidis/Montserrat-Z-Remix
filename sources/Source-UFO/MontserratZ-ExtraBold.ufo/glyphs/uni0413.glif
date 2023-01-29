@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0413" format="2">
+  <advance width="602"/>
+  <unicode hex="0413"/>
+  <anchor x="315.207" y="700" name="t.uni0308"/>
+  <outline>
+    <contour>
+      <point x="75.0338" y="0" type="line"/>
+      <point x="75.0338" y="700" type="line"/>
+      <point x="587.552" y="700" type="line"/>
+      <point x="587.242" y="543.068" type="line"/>
+      <point x="226.242" y="543.068" type="line"/>
+      <point x="269.794" y="586.93" type="line"/>
+      <point x="270.105" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

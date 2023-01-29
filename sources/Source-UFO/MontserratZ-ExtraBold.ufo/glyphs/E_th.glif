@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="2">
+  <advance width="843"/>
+  <unicode hex="00D0"/>
+  <anchor x="377.448" y="700" name="t.uni0308"/>
+  <anchor x="229.724" y="355" name="t.uni0307_1"/>
+  <anchor x="379.138" y="0" name="b.uni0324_3"/>
+  <outline>
+    <component base="D" xOffset="16.5864"/>
+    <component base="uni0335.case" xyScale="-9.64768e-21" xOffset="-78.3446" yOffset="-0.689671"/>
+  </outline>
+</glyph>

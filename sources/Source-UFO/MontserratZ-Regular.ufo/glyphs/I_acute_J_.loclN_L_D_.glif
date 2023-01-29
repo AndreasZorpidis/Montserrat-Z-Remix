@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute_J.loclNLD" format="2">
+  <advance width="718"/>
+  <outline>
+    <contour>
+      <point x="327" y="-4.69952" type="qcurve" smooth="yes"/>
+      <point x="259.635" y="-4.69952"/>
+      <point x="142.305" y="34.5665"/>
+      <point x="97.9062" y="65.399" type="qcurve"/>
+      <point x="128.034" y="123.321" type="line"/>
+      <point x="170.3" y="93.1876"/>
+      <point x="272" y="60.7541"/>
+      <point x="325.167" y="60.7541" type="qcurve" smooth="yes"/>
+      <point x="425.404" y="60.7541"/>
+      <point x="535.842" y="178.926"/>
+      <point x="535.842" y="300.798" type="qcurve" smooth="yes"/>
+      <point x="535.842" y="700" type="line"/>
+      <point x="609.66" y="700" type="line"/>
+      <point x="609.66" y="303.197" type="line" smooth="yes"/>
+      <point x="609.66" y="201.365"/>
+      <point x="538.995" y="64.6995"/>
+      <point x="412.798" y="-4.69952"/>
+    </contour>
+    <contour>
+      <point x="108.305" y="302.463" type="line"/>
+      <point x="108.305" y="700" type="line"/>
+      <point x="181.557" y="700" type="line"/>
+      <point x="181.557" y="302.463" type="line"/>
+    </contour>
+    <contour>
+      <point x="107.837" y="757" type="line"/>
+      <point x="245.571" y="880.596" type="line"/>
+      <point x="329.192" y="880.596" type="line"/>
+      <point x="167.296" y="757" type="line"/>
+    </contour>
+    <contour>
+      <point x="536.808" y="757" type="line"/>
+      <point x="674.542" y="880.596" type="line"/>
+      <point x="758.163" y="880.596" type="line"/>
+      <point x="596.266" y="757" type="line"/>
+    </contour>
+  </outline>
+</glyph>

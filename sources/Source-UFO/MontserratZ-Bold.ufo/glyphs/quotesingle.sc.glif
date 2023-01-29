@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesingle.sc" format="2">
+  <advance width="230"/>
+  <outline>
+    <contour>
+      <point x="59.0669" y="330.447" type="line"/>
+      <point x="48.8936" y="574.76" type="line"/>
+      <point x="181.576" y="574.76" type="line"/>
+      <point x="170.799" y="330.447" type="line"/>
+    </contour>
+  </outline>
+</glyph>

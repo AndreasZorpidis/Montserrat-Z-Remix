@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gbreve.sc" format="2">
+  <advance width="652"/>
+  <anchor x="380" y="832" name="t.uni0308"/>
+  <anchor x="360" y="0" name="b.uni0324_3"/>
+  <outline>
+    <component base="g.sc"/>
+    <component base="uni0306" xyScale="1.71811e-18" yScale="1" xOffset="42.9311" yOffset="40.3005"/>
+  </outline>
+</glyph>

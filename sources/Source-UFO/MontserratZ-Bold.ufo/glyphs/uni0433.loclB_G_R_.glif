@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0433.loclBGR" format="2">
+  <advance width="556"/>
+  <outline>
+    <contour>
+      <point x="286.536" y="-8.58663" type="qcurve" smooth="yes"/>
+      <point x="216.967" y="-8.58663"/>
+      <point x="101.24" y="29.3967"/>
+      <point x="31.8936" y="105.76"/>
+      <point x="31.8936" y="163.726" type="qcurve" smooth="yes"/>
+      <point x="31.8936" y="206.52"/>
+      <point x="67.1003" y="261.71"/>
+      <point x="125.514" y="294.296"/>
+      <point x="195.53" y="312.693"/>
+      <point x="264.547" y="324.503"/>
+      <point x="322.96" y="337.33"/>
+      <point x="358.167" y="358.38"/>
+      <point x="358.167" y="378.017" type="qcurve" smooth="yes"/>
+      <point x="358.167" y="403.877"/>
+      <point x="304.894" y="429.754"/>
+      <point x="260.207" y="429.754" type="qcurve" smooth="yes"/>
+      <point x="232" y="429.754"/>
+      <point x="169.603" y="419.547"/>
+      <point x="113.81" y="402.53"/>
+      <point x="94" y="392.117" type="qcurve"/>
+      <point x="48.8769" y="497.52" type="line"/>
+      <point x="95.0501" y="520.916"/>
+      <point x="204.62" y="548.536"/>
+      <point x="259.81" y="548.536" type="qcurve" smooth="yes"/>
+      <point x="329.587" y="548.536"/>
+      <point x="442.106" y="509.553"/>
+      <point x="509.246" y="431.19"/>
+      <point x="509.246" y="372.827" type="qcurve" smooth="yes"/>
+      <point x="509.246" y="329.43"/>
+      <point x="474.04" y="273.843"/>
+      <point x="415.626" y="241.257"/>
+      <point x="345.609" y="222.86"/>
+      <point x="275.593" y="211.447"/>
+      <point x="217.179" y="199.223"/>
+      <point x="181.973" y="178.173"/>
+      <point x="181.973" y="159.536" type="qcurve" smooth="yes"/>
+      <point x="181.973" y="133.073"/>
+      <point x="238.47" y="108.403"/>
+      <point x="282.553" y="108.403" type="qcurve" smooth="yes"/>
+      <point x="318.777" y="108.403"/>
+      <point x="392.967" y="122.213"/>
+      <point x="457.553" y="143.833"/>
+      <point x="478.157" y="155.643" type="qcurve"/>
+      <point x="523.28" y="51.8435" type="line"/>
+      <point x="473.71" y="23.6368"/>
+      <point x="350.743" y="-8.58663"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.tosf" format="2">
+  <advance width="700"/>
+  <outline>
+    <contour>
+      <point x="331" y="-105" type="qcurve" smooth="yes"/>
+      <point x="245.333" y="-105"/>
+      <point x="110" y="-52.9998"/>
+      <point x="73.3336" y="-11.3331" type="qcurve"/>
+      <point x="101.666" y="27.6661" type="line"/>
+      <point x="133.666" y="-9.0006"/>
+      <point x="249.667" y="-58.3341"/>
+      <point x="328.667" y="-58.3341" type="qcurve" smooth="yes"/>
+      <point x="431.667" y="-58.3341"/>
+      <point x="534.001" y="26.3329"/>
+      <point x="534.001" y="96.9999" type="qcurve" smooth="yes"/>
+      <point x="534.001" y="167.333"/>
+      <point x="432" y="251.667"/>
+      <point x="326" y="251.667" type="qcurve" smooth="yes"/>
+      <point x="275.334" y="251.667" type="line"/>
+      <point x="275.334" y="288.667" type="line"/>
+      <point x="508.667" y="574" type="line"/>
+      <point x="515.667" y="554.334" type="line"/>
+      <point x="84.0001" y="554.334" type="line"/>
+      <point x="84.0001" y="600" type="line"/>
+      <point x="559" y="600" type="line"/>
+      <point x="559" y="564.001" type="line"/>
+      <point x="325.666" y="278.667" type="line"/>
+      <point x="304" y="295.333" type="line"/>
+      <point x="332.667" y="295.333" type="line" smooth="yes"/>
+      <point x="457.666" y="295.333"/>
+      <point x="585.666" y="185"/>
+      <point x="585.666" y="97.3332" type="qcurve" smooth="yes"/>
+      <point x="585.666" y="38.9999"/>
+      <point x="528.333" y="-52.6667"/>
+      <point x="415.333" y="-105"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat.sc" format="2">
+  <advance width="726"/>
+  <anchor x="336.871" y="591.577" name="t.uni0308"/>
+  <anchor x="194.741" y="297.224" name="t.uni0307_1"/>
+  <anchor x="337.035" y="0" name="b.uni0324_3"/>
+  <outline>
+    <component base="eth.sc"/>
+  </outline>
+</glyph>

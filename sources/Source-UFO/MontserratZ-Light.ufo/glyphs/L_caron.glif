@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="2">
+  <advance width="585"/>
+  <unicode hex="013D"/>
+  <anchor x="189" y="700" name="t.uni0308"/>
+  <anchor x="506" y="480" name="t.periodcentered.loclCAT"/>
+  <anchor x="189" y="419" name="t.uni0307_1"/>
+  <anchor x="413" y="700" name="t.uni031B_2"/>
+  <anchor x="338" y="0" name="b.uni0324_3"/>
+  <outline>
+    <component base="L"/>
+    <component base="uni030C.alt" xOffset="142.667"/>
+  </outline>
+</glyph>

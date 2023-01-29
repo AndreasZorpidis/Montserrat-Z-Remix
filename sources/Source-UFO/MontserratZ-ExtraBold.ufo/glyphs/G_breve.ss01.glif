@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gbreve.ss01" format="2">
+  <advance width="770"/>
+  <anchor x="427.103" y="701" name="t.uni0308"/>
+  <anchor x="410.931" y="3.31033" name="b.uni0324_3"/>
+  <outline>
+    <component base="G.ss01"/>
+    <component base="uni0306.case" xyScale="-9.64768e-21" xOffset="120.276" yOffset="0.689671"/>
+  </outline>
+</glyph>

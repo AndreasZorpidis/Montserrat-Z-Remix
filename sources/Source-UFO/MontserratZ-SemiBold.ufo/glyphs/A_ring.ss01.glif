@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring.ss01" format="2">
+  <advance width="798"/>
+  <anchor x="393.388" y="1016.08" name="t.uni0308"/>
+  <anchor x="393.388" y="0" name="b.uni0324_3"/>
+  <anchor x="765.377" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="A.ss01"/>
+    <component base="uni030A" xScale="1" xyScale="4.71968e-18" yScale="1" xOffset="98.6118" yOffset="166.059"/>
+  </outline>
+</glyph>

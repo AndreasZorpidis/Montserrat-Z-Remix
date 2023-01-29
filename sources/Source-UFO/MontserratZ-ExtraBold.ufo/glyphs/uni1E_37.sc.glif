@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E37.sc" format="2">
+  <advance width="533"/>
+  <anchor x="172.965" y="585.414" name="t.uni0308"/>
+  <anchor x="448.689" y="389.034" name="t.periodcentered.loclCAT"/>
+  <anchor x="172.965" y="344.138" name="t.uni0307_1"/>
+  <anchor x="369.069" y="585.414" name="t.uni031B_2"/>
+  <anchor x="303.379" y="-202.792" name="b.uni0324_3"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="dotbelowcomb" xOffset="4.93099"/>
+  </outline>
+</glyph>

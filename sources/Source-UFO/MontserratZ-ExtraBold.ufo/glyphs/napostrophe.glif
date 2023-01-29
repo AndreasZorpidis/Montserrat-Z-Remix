@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="napostrophe" format="2">
+  <advance width="837"/>
+  <unicode hex="0149"/>
+  <anchor x="542.896" y="551.655" name="t.uni0308"/>
+  <anchor x="542.896" y="0" name="b.uni0324_3"/>
+  <outline>
+    <component base="uni02BC" xOffset="-59.3103"/>
+    <component base="n" xOffset="140.726"/>
+  </outline>
+</glyph>

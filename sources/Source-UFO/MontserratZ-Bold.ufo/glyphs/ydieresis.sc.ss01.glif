@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis.sc.ss01" format="2">
+  <advance width="683"/>
+  <anchor x="347.62" y="804.564" name="t.uni0308"/>
+  <anchor x="646.72" y="16.6201" name="b.uni0324_3"/>
+  <outline>
+    <component base="y.sc.ss01"/>
+    <component base="uni0308" xScale="1" xyScale="2.09241e-18" xOffset="277.771" yOffset="36.81"/>
+  </outline>
+</glyph>

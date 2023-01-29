@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis.sc" format="2">
+  <advance width="311"/>
+  <anchor x="177.05" y="804.564" name="t.uni0308"/>
+  <anchor x="177.05" y="0" name="b.uni0324_3"/>
+  <anchor x="319.804" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="uni0308.narrow" xyScale="2.09241e-18" xOffset="-144.67" yOffset="36.81"/>
+  </outline>
+</glyph>

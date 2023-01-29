@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos.4" format="2">
+  <advance width="313"/>
+  <anchor x="168.276" y="775.206" name="t.uni0308"/>
+  <anchor x="168.276" y="0" name="b.uni0324_3"/>
+  <anchor x="295.24" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="acutecomb" xOffset="-143.517"/>
+  </outline>
+</glyph>

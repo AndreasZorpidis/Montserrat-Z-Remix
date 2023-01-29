@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="descTailcy.case" format="2">
+  <advance width="319"/>
+  <outline>
+    <contour>
+      <point x="54.7599" y="-145.447" type="line"/>
+      <point x="91.2067" y="37.7265" type="line"/>
+      <point x="149.28" y="0" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="0" y="132.319" type="line"/>
+      <point x="262.392" y="132.319" type="line"/>
+      <point x="182.649" y="-145.447" type="line"/>
+    </contour>
+  </outline>
+</glyph>

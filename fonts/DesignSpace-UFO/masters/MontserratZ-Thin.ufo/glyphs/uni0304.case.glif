@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0304.case" format="2">
+  <anchor x="300" y="700" name="_t.uni0308"/>
+  <anchor x="300" y="700" name="_t.uni0308_2"/>
+  <anchor x="300" y="700" name="_m.uni0308"/>
+  <outline>
+    <component base="uni0304" yOffset="150"/>
+  </outline>
+</glyph>

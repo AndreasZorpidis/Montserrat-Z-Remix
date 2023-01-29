@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gdotaccent" format="2">
+  <advance width="694"/>
+  <unicode hex="0121"/>
+  <anchor x="369.8" y="872.26" name="t.uni0308"/>
+  <outline>
+    <component base="g"/>
+    <component base="uni0307" xOffset="34.976"/>
+  </outline>
+</glyph>

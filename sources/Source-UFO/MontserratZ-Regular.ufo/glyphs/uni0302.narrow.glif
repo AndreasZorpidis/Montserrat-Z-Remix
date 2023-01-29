@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0302.narrow" format="2">
+  <outline>
+    <contour>
+      <point x="159.808" y="607" type="line"/>
+      <point x="265.172" y="730.596" type="line"/>
+      <point x="334.828" y="730.596" type="line"/>
+      <point x="440.192" y="607" type="line"/>
+      <point x="376.369" y="607" type="line"/>
+      <point x="275.906" y="712.631" type="line"/>
+      <point x="324.094" y="712.631" type="line"/>
+      <point x="223.631" y="607" type="line"/>
+    </contour>
+  </outline>
+</glyph>

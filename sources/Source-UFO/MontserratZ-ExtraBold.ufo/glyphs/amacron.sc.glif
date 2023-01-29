@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="amacron.sc" format="2">
+  <advance width="678"/>
+  <anchor x="360.62" y="778.965" name="t.uni0308"/>
+  <anchor x="360.62" y="0" name="b.uni0324_3"/>
+  <anchor x="742.654" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="a.sc"/>
+    <component base="uni0304" xyScale="1.53183e-18" yScale="1" xOffset="38.8972" yOffset="35.931"/>
+  </outline>
+</glyph>

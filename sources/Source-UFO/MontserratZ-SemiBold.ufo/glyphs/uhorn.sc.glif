@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhorn.sc" format="2">
+  <advance width="694"/>
+  <anchor x="354.224" y="591.577" name="t.uni0308"/>
+  <anchor x="550.388" y="591.577" name="t.uni031B_2"/>
+  <anchor x="354.224" y="0" name="b.uni0324_3"/>
+  <anchor x="568.636" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="uni031B" xyScale="2.67248e-19" yScale="1" xOffset="257.353" yOffset="37.6118"/>
+  </outline>
+</glyph>

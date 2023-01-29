@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="delta" format="2">
+  <advance width="654"/>
+  <unicode hex="03B4"/>
+  <anchor x="384" y="562" name="t.uni0308"/>
+  <anchor x="384" y="281" name="t.uni0307_1"/>
+  <anchor x="452" y="561" name="t.uni031B_2"/>
+  <anchor x="384" y="0" name="b.uni0324_3"/>
+  <anchor x="524" y="0" name="m.uni0328_4"/>
+  <outline>
+    <contour>
+      <point x="344.667" y="-3.99997" type="qcurve" smooth="yes"/>
+      <point x="269.667" y="-3.99997"/>
+      <point x="152.333" y="64"/>
+      <point x="84.0002" y="184.333"/>
+      <point x="84.0002" y="261.333" type="qcurve" smooth="yes"/>
+      <point x="84.0002" y="391.334"/>
+      <point x="178.168" y="460.334" type="qcurve"/>
+      <point x="212.237" y="491.61"/>
+      <point x="257.185" y="508.137" type="qcurve"/>
+      <point x="230.73" y="517.495"/>
+      <point x="209.001" y="533" type="qcurve"/>
+      <point x="156.334" y="563"/>
+      <point x="156.334" y="629.667" type="qcurve" smooth="yes"/>
+      <point x="156.334" y="669.667"/>
+      <point x="200.667" y="734.333"/>
+      <point x="288.666" y="773"/>
+      <point x="354.333" y="773" type="qcurve" smooth="yes"/>
+      <point x="404" y="773"/>
+      <point x="503" y="745.333"/>
+      <point x="534" y="722" type="qcurve"/>
+      <point x="510.667" y="682.334" type="line"/>
+      <point x="477.667" y="706.667"/>
+      <point x="396" y="729.001"/>
+      <point x="354" y="729.001" type="qcurve" smooth="yes"/>
+      <point x="277.666" y="729.001"/>
+      <point x="206.666" y="673.001"/>
+      <point x="206.666" y="631.334" type="qcurve" smooth="yes"/>
+      <point x="206.666" y="597.667"/>
+      <point x="243.999" y="559"/>
+      <point x="328" y="530"/>
+      <point x="381.19" y="523.537" type="qcurve" smooth="yes"/>
+      <point x="434.549" y="517.676"/>
+      <point x="478.833" y="492.333" type="qcurve" smooth="yes"/>
+      <point x="538" y="458"/>
+      <point x="605.333" y="339.333"/>
+      <point x="605.333" y="261.333" type="qcurve" smooth="yes"/>
+      <point x="605.333" y="184.333"/>
+      <point x="538" y="64"/>
+      <point x="419.666" y="-3.99997"/>
+    </contour>
+    <contour>
+      <point x="344.667" y="40.666" type="qcurve" smooth="yes"/>
+      <point x="405" y="40.666"/>
+      <point x="500.334" y="96.3328"/>
+      <point x="555" y="196.333"/>
+      <point x="555" y="261.333" type="qcurve" smooth="yes"/>
+      <point x="555" y="327.333"/>
+      <point x="500.334" y="426.334"/>
+      <point x="405" y="481.334"/>
+      <point x="345" y="481.334" type="qcurve" smooth="yes"/>
+      <point x="284.666" y="481.334"/>
+      <point x="189.999" y="426.334"/>
+      <point x="134.333" y="327.333"/>
+      <point x="134.333" y="261.333" type="qcurve" smooth="yes"/>
+      <point x="134.333" y="196.333"/>
+      <point x="189.999" y="96.3328"/>
+      <point x="284.666" y="40.666"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>o+^macron%</string>
+  </dict>
+  </lib>
+</glyph>

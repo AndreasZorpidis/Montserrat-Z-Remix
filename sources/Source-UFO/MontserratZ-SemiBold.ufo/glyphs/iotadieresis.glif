@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotadieresis" format="2">
+  <advance width="173"/>
+  <unicode hex="03CA"/>
+  <anchor x="119.47" y="0" name="b.uni0324_3"/>
+  <anchor x="271.647" y="0" name="m.uni0328_4"/>
+  <anchor x="119.47" y="786.142" name="m.uni0308"/>
+  <outline>
+    <contour>
+      <point x="187.939" y="619.189" type="qcurve" smooth="yes"/>
+      <point x="162.998" y="619.189"/>
+      <point x="127.54" y="652.388"/>
+      <point x="127.54" y="679.329" type="qcurve" smooth="yes"/>
+      <point x="127.54" y="706.27"/>
+      <point x="162.998" y="739.599"/>
+      <point x="187.939" y="739.599" type="qcurve" smooth="yes"/>
+      <point x="212.88" y="739.599"/>
+      <point x="248.339" y="706.27"/>
+      <point x="248.339" y="679.329" type="qcurve" smooth="yes"/>
+      <point x="248.339" y="652.388"/>
+      <point x="212.88" y="619.189"/>
+    </contour>
+    <contour>
+      <point x="-6.20132" y="619.189" type="qcurve" smooth="yes"/>
+      <point x="-31.1422" y="619.189"/>
+      <point x="-66.6007" y="652.388"/>
+      <point x="-66.6007" y="679.329" type="qcurve" smooth="yes"/>
+      <point x="-66.6007" y="706.27"/>
+      <point x="-31.1422" y="739.599"/>
+      <point x="-6.20132" y="739.599" type="qcurve" smooth="yes"/>
+      <point x="18.7396" y="739.599"/>
+      <point x="54.198" y="706.27"/>
+      <point x="54.198" y="679.329" type="qcurve" smooth="yes"/>
+      <point x="54.198" y="652.388"/>
+      <point x="18.7396" y="619.189"/>
+    </contour>
+    <contour>
+      <point x="23.8818" y="0" type="line"/>
+      <point x="23.8818" y="533.941" type="line"/>
+      <point x="148.891" y="533.941" type="line"/>
+      <point x="148.891" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>iota+uni0308</string>
+  </dict>
+  </lib>
+</glyph>

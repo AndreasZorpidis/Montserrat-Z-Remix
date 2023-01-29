@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelowcomb" format="2">
+  <unicode hex="0323"/>
+  <anchor x="300" y="-202.792" name="t.uni0324"/>
+  <outline>
+    <contour>
+      <point x="300" y="-217.931" type="qcurve" smooth="yes"/>
+      <point x="266.655" y="-217.931"/>
+      <point x="220.551" y="-176.207"/>
+      <point x="220.551" y="-140.862" type="qcurve" smooth="yes"/>
+      <point x="220.551" y="-105.517"/>
+      <point x="266.655" y="-61.7925"/>
+      <point x="300" y="-61.7925" type="qcurve" smooth="yes"/>
+      <point x="333.345" y="-61.7925"/>
+      <point x="379.449" y="-105.517"/>
+      <point x="379.449" y="-140.862" type="qcurve" smooth="yes"/>
+      <point x="379.449" y="-176.207"/>
+      <point x="333.345" y="-217.931"/>
+    </contour>
+  </outline>
+</glyph>

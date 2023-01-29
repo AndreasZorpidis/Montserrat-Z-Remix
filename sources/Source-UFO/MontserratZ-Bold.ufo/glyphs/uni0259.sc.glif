@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0259.sc" format="2">
+  <advance width="676"/>
+  <anchor x="347.223" y="588.637" name="t.uni0308"/>
+  <anchor x="347.223" y="0" name="b.uni0324_3"/>
+  <outline>
+    <contour>
+      <point x="338.173" y="-11.3799" type="qcurve" smooth="yes"/>
+      <point x="249.207" y="-11.3799"/>
+      <point x="112.447" y="66.0167"/>
+      <point x="34.8602" y="203.793"/>
+      <point x="34.8602" y="293.967" type="qcurve" smooth="yes"/>
+      <point x="34.8602" y="327.76" type="line"/>
+      <point x="502.441" y="327.76" type="line"/>
+      <point x="502.441" y="225.084" type="line"/>
+      <point x="139.989" y="225.084" type="line"/>
+      <point x="190.062" y="273.1" type="line"/>
+      <point x="190.062" y="220.223"/>
+      <point x="225.956" y="144.9"/>
+      <point x="293.9" y="105.023"/>
+      <point x="340.173" y="105.023" type="qcurve" smooth="yes"/>
+      <point x="386.447" y="105.023"/>
+      <point x="450.787" y="144.296"/>
+      <point x="485.077" y="217.81"/>
+      <point x="485.077" y="268.274" type="qcurve" smooth="yes"/>
+      <point x="485.077" y="293.967" type="line" smooth="yes"/>
+      <point x="485.077" y="341.033"/>
+      <point x="444.201" y="414.547"/>
+      <point x="372.274" y="456.821"/>
+      <point x="324.397" y="456.821" type="qcurve" smooth="yes"/>
+      <point x="285.363" y="456.821"/>
+      <point x="213.106" y="430.804"/>
+      <point x="184.676" y="407.374" type="qcurve"/>
+      <point x="100.687" y="509.76" type="line"/>
+      <point x="140.084" y="544.76"/>
+      <point x="261.81" y="586.14"/>
+      <point x="330.777" y="586.14" type="qcurve" smooth="yes"/>
+      <point x="420.347" y="586.14"/>
+      <point x="560.106" y="508.743"/>
+      <point x="641.486" y="374.363"/>
+      <point x="641.486" y="287.38" type="qcurve" smooth="yes"/>
+      <point x="641.486" y="222"/>
+      <point x="596.296" y="112.413"/>
+      <point x="514.52" y="32.6201"/>
+      <point x="403.553" y="-11.3799"/>
+    </contour>
+  </outline>
+</glyph>

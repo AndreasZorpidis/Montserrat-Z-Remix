@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni030C.loclVIET" format="2">
+  <outline>
+    <contour>
+      <point x="244.177" y="607" type="line"/>
+      <point x="109.083" y="714.364" type="line"/>
+      <point x="212.518" y="714.364" type="line"/>
+      <point x="347.035" y="629.165" type="line"/>
+      <point x="252.965" y="629.165" type="line"/>
+      <point x="387.482" y="714.364" type="line"/>
+      <point x="490.917" y="714.364" type="line"/>
+      <point x="355.823" y="607" type="line"/>
+    </contour>
+  </outline>
+</glyph>

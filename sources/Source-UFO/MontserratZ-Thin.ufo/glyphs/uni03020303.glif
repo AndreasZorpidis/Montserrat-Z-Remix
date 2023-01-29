@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03020303" format="2">
+  <anchor x="300" y="562" name="_t.uni0308"/>
+  <anchor x="300" y="562" name="_t.uni0308_2"/>
+  <anchor x="300" y="562" name="_m.uni0308"/>
+  <anchor x="300" y="991" name="m.uni0308"/>
+  <outline>
+    <component base="uni0302.loclVIET"/>
+    <component base="tildecomb.loclVIET" yOffset="98"/>
+  </outline>
+</glyph>

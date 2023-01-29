@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi.sc.ss01" format="2">
+  <advance width="447"/>
+  <anchor x="245.05" y="588.637" name="t.uni0308"/>
+  <anchor x="245.05" y="0" name="b.uni0324_3"/>
+  <anchor x="387.201" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="i.sc.ss01"/>
+  </outline>
+</glyph>

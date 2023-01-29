@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar.ss01" format="2">
+  <advance width="413"/>
+  <anchor x="181.671" y="686.542" name="t.uni0308"/>
+  <anchor x="193.706" y="241.847" name="t.uni0307_1"/>
+  <anchor x="367.695" y="742" name="t.uni031B_2"/>
+  <anchor x="259.835" y="0" name="b.uni0324_3"/>
+  <outline>
+    <component base="t.ss01" xOffset="5"/>
+    <component base="uni0335.t" xyScale="-8.73781e-18" xOffset="-126.318" yOffset="-153.717"/>
+  </outline>
+</glyph>

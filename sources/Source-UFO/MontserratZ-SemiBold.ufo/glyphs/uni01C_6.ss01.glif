@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C6.ss01" format="2">
+  <advance width="1228"/>
+  <anchor x="1021.12" y="792.66" name="t.uni0308"/>
+  <anchor x="493.741" y="644.353" name="t.uni0307_1"/>
+  <anchor x="753.248" y="742" name="t.uni031B_2"/>
+  <anchor x="401.153" y="0" name="m.uni0324_1_ligComponent_1"/>
+  <anchor x="1021.12" y="0" name="m.uni0324_1_ligComponent_2"/>
+  <outline>
+    <component base="d"/>
+    <component base="zcaron.ss01" xScale="1" xOffset="686.717"/>
+  </outline>
+</glyph>

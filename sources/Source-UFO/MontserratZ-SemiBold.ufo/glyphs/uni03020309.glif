@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03020309" format="2">
+  <anchor x="300" y="560.059" name="_t.uni0308"/>
+  <anchor x="300" y="560.059" name="_t.uni0308_2"/>
+  <anchor x="300" y="560.059" name="_m.uni0308"/>
+  <anchor x="510.471" y="910.719" name="m.uni0308"/>
+  <outline>
+    <component base="uni0302.loclVIET"/>
+    <component base="hookabovecomb.loclVIET" xyScale="-2.3289e-18" yScale="1" xOffset="140.823" yOffset="81.9409"/>
+  </outline>
+</glyph>

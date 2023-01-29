@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="2">
+  <advance width="795"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="30" y="268.677" type="line"/>
+      <point x="30" y="293.323" type="line"/>
+      <point x="564.433" y="293.323" type="line"/>
+      <point x="564.433" y="268.677" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="406.677" type="line"/>
+      <point x="30" y="431.323" type="line"/>
+      <point x="564.433" y="431.323" type="line"/>
+      <point x="564.433" y="406.677" type="line"/>
+    </contour>
+    <contour>
+      <point x="499.578" y="-3.86693" type="qcurve" smooth="yes"/>
+      <point x="422.144" y="-3.86693"/>
+      <point x="290.422" y="49.1331"/>
+      <point x="192.989" y="145.278"/>
+      <point x="138.7" y="273.711"/>
+      <point x="138.7" y="350" type="qcurve" smooth="yes"/>
+      <point x="138.7" y="426.289"/>
+      <point x="192.989" y="554.722"/>
+      <point x="290.422" y="650.867"/>
+      <point x="422.144" y="703.867"/>
+      <point x="499.578" y="703.867" type="qcurve" smooth="yes"/>
+      <point x="570.745" y="703.867"/>
+      <point x="697.057" y="657.989"/>
+      <point x="742.491" y="611.399" type="qcurve"/>
+      <point x="721.532" y="589.019" type="line"/>
+      <point x="674.833" y="634.441"/>
+      <point x="563.289" y="672.874"/>
+      <point x="500.445" y="672.874" type="qcurve" smooth="yes"/>
+      <point x="430.612" y="672.874"/>
+      <point x="310.658" y="623.753"/>
+      <point x="221.692" y="535.932"/>
+      <point x="172.426" y="418.833"/>
+      <point x="172.426" y="350" type="qcurve" smooth="yes"/>
+      <point x="172.426" y="281.167"/>
+      <point x="221.692" y="164.068"/>
+      <point x="310.658" y="76.2472"/>
+      <point x="430.612" y="27.1256"/>
+      <point x="500.445" y="27.1256" type="qcurve" smooth="yes"/>
+      <point x="563.289" y="27.1256"/>
+      <point x="674.833" y="66.4146"/>
+      <point x="721.532" y="111.981" type="qcurve"/>
+      <point x="742.491" y="89.6008" type="line"/>
+      <point x="697.057" y="43.0114"/>
+      <point x="570.745" y="-3.86693"/>
+    </contour>
+  </outline>
+</glyph>

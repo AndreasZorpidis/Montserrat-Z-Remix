@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteright.sc" format="2">
+  <advance width="244"/>
+  <outline>
+    <contour>
+      <point x="57.7061" y="303.131" type="line"/>
+      <point x="106.811" y="495.895" type="line"/>
+      <point x="123.27" y="421.26" type="line"/>
+      <point x="87.9057" y="421.26"/>
+      <point x="41.7652" y="464.495"/>
+      <point x="41.7652" y="498.601" type="qcurve" smooth="yes"/>
+      <point x="41.7652" y="533.577"/>
+      <point x="88.0351" y="578.941"/>
+      <point x="122.399" y="578.941" type="qcurve" smooth="yes"/>
+      <point x="157.634" y="578.941"/>
+      <point x="203.904" y="533.577"/>
+      <point x="203.904" y="498.601" type="qcurve" smooth="yes"/>
+      <point x="203.904" y="489.083"/>
+      <point x="200.775" y="468.66"/>
+      <point x="192.61" y="439.201"/>
+      <point x="183.187" y="416.131" type="qcurve" smooth="yes"/>
+      <point x="138.505" y="303.131" type="line"/>
+    </contour>
+  </outline>
+</glyph>

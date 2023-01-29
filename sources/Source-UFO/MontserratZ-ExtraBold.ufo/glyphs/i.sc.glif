@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.sc" format="2">
+  <advance width="323"/>
+  <anchor x="172.655" y="585.414" name="t.uni0308"/>
+  <anchor x="172.655" y="0" name="b.uni0324_3"/>
+  <anchor x="301.93" y="0" name="m.uni0328_4"/>
+  <outline>
+    <contour>
+      <point x="65.1028" y="0" type="line"/>
+      <point x="65.1028" y="578.276" type="line"/>
+      <point x="258.174" y="578.276" type="line"/>
+      <point x="258.174" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

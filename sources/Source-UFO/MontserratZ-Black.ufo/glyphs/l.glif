@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="2">
+  <advance width="326"/>
+  <unicode hex="006C"/>
+  <anchor x="163" y="742" name="t.uni0308"/>
+  <anchor x="416" y="370" name="t.periodcentered.loclCAT"/>
+  <anchor x="163" y="370" name="t.uni0307_1"/>
+  <anchor x="346" y="742" name="t.uni031B_2"/>
+  <anchor x="163" y="0" name="b.uni0324_3"/>
+  <outline>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="50" y="742" type="line"/>
+      <point x="276" y="742" type="line"/>
+      <point x="276" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

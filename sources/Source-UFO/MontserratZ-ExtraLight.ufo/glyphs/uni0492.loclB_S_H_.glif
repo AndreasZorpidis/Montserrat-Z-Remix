@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0492.loclBSH" format="2">
+  <advance width="574"/>
+  <anchor x="309" y="700" name="t.uni0308"/>
+  <outline>
+    <contour>
+      <point x="147.878" y="313.365" type="line"/>
+      <point x="147.878" y="341.901" type="line"/>
+      <point x="479.335" y="341.901" type="line"/>
+      <point x="479.335" y="313.365" type="line"/>
+    </contour>
+    <contour>
+      <point x="132.232" y="0" type="line"/>
+      <point x="132.232" y="700" type="line"/>
+      <point x="555.601" y="700" type="line"/>
+      <point x="555.456" y="669.441" type="line"/>
+      <point x="153.924" y="669.441" type="line"/>
+      <point x="165.525" y="681.186" type="line"/>
+      <point x="165.669" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eng.sc.ss01" format="2">
+  <advance width="681"/>
+  <outline>
+    <contour>
+      <point x="355" y="567.667" type="qcurve" smooth="yes"/>
+      <point x="457.666" y="567.667"/>
+      <point x="575.333" y="449"/>
+      <point x="575.333" y="338" type="qcurve" smooth="yes"/>
+      <point x="575.333" y="15.9996" type="line" smooth="yes"/>
+      <point x="575.333" y="-70.6668"/>
+      <point x="495.667" y="-160"/>
+      <point x="416.333" y="-160" type="qcurve" smooth="yes"/>
+      <point x="373.333" y="-160"/>
+      <point x="296.333" y="-123"/>
+      <point x="272" y="-89.6664" type="qcurve"/>
+      <point x="296.667" y="-52.667" type="line"/>
+      <point x="341" y="-114.334"/>
+      <point x="416.667" y="-114.334" type="qcurve" smooth="yes"/>
+      <point x="525" y="-114.334"/>
+      <point x="525" y="12.9997" type="qcurve" smooth="yes"/>
+      <point x="525" y="336" type="line" smooth="yes"/>
+      <point x="525" y="427.667"/>
+      <point x="431.333" y="523.001"/>
+      <point x="346.333" y="523.001" type="qcurve" smooth="yes"/>
+      <point x="259.666" y="523.001"/>
+      <point x="162.333" y="422.667"/>
+      <point x="162.333" y="323.667" type="qcurve" smooth="yes"/>
+      <point x="162.333" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="112" y="562.667" type="line"/>
+      <point x="160.666" y="562.667" type="line"/>
+      <point x="160.666" y="424.333" type="line"/>
+      <point x="148.666" y="433.333" type="line"/>
+      <point x="172.333" y="500.666"/>
+      <point x="278.333" y="567.667"/>
+    </contour>
+  </outline>
+</glyph>

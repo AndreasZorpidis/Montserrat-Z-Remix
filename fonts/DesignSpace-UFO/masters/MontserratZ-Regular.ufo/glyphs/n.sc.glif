@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n.sc" format="2">
+  <advance width="700"/>
+  <anchor x="359" y="593" name="t.uni0308"/>
+  <anchor x="359" y="0" name="b.uni0324_3"/>
+  <outline>
+    <contour>
+      <point x="92" y="0" type="line"/>
+      <point x="92" y="570" type="line"/>
+      <point x="184" y="570" type="line"/>
+      <point x="539" y="138" type="line"/>
+      <point x="497" y="138" type="line"/>
+      <point x="497" y="570" type="line"/>
+      <point x="608" y="570" type="line"/>
+      <point x="608" y="0" type="line"/>
+      <point x="516" y="0" type="line"/>
+      <point x="161" y="432" type="line"/>
+      <point x="203" y="432" type="line"/>
+      <point x="203" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

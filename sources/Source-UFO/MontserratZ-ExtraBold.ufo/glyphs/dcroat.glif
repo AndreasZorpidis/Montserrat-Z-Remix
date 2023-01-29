@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="2">
+  <advance width="698"/>
+  <unicode hex="0111"/>
+  <anchor x="492.621" y="641.552" name="t.uni0307_1"/>
+  <anchor x="737" y="742" name="t.uni031B_2"/>
+  <anchor x="388.827" y="0" name="b.uni0324_3"/>
+  <outline>
+    <component base="d"/>
+    <component base="uni0335" xScale="1" xOffset="189.517" yOffset="204.207"/>
+  </outline>
+</glyph>

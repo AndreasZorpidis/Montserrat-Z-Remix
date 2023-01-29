@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright.case" format="2">
+  <advance width="588"/>
+  <outline>
+    <component base="guillemotright" xyScale="-3.1136e-18" xOffset="10" yOffset="73.0334"/>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecombcy.case" format="2">
+  <outline>
+    <contour>
+      <point x="238.165" y="746.965" type="qcurve" smooth="yes"/>
+      <point x="147.895" y="746.965"/>
+      <point x="56.7301" y="822.906"/>
+      <point x="55.8594" y="891.976" type="qcurve"/>
+      <point x="146.693" y="891.976" type="line"/>
+      <point x="147.564" y="854.623"/>
+      <point x="194.588" y="814.917"/>
+      <point x="238.165" y="814.917" type="qcurve" smooth="yes"/>
+      <point x="281" y="814.917"/>
+      <point x="329.895" y="854.623"/>
+      <point x="330.765" y="891.976" type="qcurve"/>
+      <point x="420.728" y="891.976" type="line"/>
+      <point x="419.858" y="822.906"/>
+      <point x="328.434" y="746.965"/>
+    </contour>
+  </outline>
+</glyph>

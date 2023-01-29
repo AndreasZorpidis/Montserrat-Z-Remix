@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb.narrow" format="2">
+  <outline>
+    <contour>
+      <point x="353.3" y="617.411" type="qcurve" smooth="yes"/>
+      <point x="333.011" y="617.411"/>
+      <point x="305" y="638.266"/>
+      <point x="282.278" y="665.266"/>
+      <point x="261.133" y="686.122"/>
+      <point x="247.422" y="686.122" type="qcurve" smooth="yes"/>
+      <point x="229.711" y="686.122"/>
+      <point x="208.433" y="650.7"/>
+      <point x="208.433" y="619.989" type="qcurve"/>
+      <point x="183.509" y="619.989" type="line"/>
+      <point x="183.509" y="662.312"/>
+      <point x="216.821" y="712.057"/>
+      <point x="246.7" y="712.057" type="qcurve" smooth="yes"/>
+      <point x="267.133" y="712.057"/>
+      <point x="295" y="691.202"/>
+      <point x="317.722" y="664.346"/>
+      <point x="338.867" y="643.491"/>
+      <point x="352.578" y="643.491" type="qcurve" smooth="yes"/>
+      <point x="370.289" y="643.491"/>
+      <point x="391.567" y="678.768"/>
+      <point x="391.567" y="707.479" type="qcurve"/>
+      <point x="416.491" y="707.479" type="line"/>
+      <point x="416.491" y="667.156"/>
+      <point x="384.034" y="617.411"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E78" format="2">
+  <advance width="789"/>
+  <unicode hex="1E78"/>
+  <anchor x="393.129" y="1135.26" name="t.uni0308"/>
+  <anchor x="627.811" y="700" name="t.uni031B_2"/>
+  <anchor x="393.129" y="0" name="b.uni0324_3"/>
+  <anchor x="633.93" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="U"/>
+    <component base="tildecomb_acutecomb.case" xScale="1" xOffset="95.7412"/>
+  </outline>
+</glyph>

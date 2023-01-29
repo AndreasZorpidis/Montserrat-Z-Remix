@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookabovecomb.loclVIET" format="2">
+  <outline>
+    <contour>
+      <point x="303" y="603" type="qcurve"/>
+      <point x="293" y="618" type="line"/>
+      <point x="314" y="628"/>
+      <point x="338" y="657"/>
+      <point x="338" y="674" type="qcurve" smooth="yes"/>
+      <point x="338" y="690"/>
+      <point x="315" y="710"/>
+      <point x="296" y="710" type="qcurve" smooth="yes"/>
+      <point x="272" y="710"/>
+      <point x="253" y="697" type="qcurve"/>
+      <point x="245" y="713" type="line"/>
+      <point x="256" y="721"/>
+      <point x="283" y="729"/>
+      <point x="297" y="729" type="qcurve" smooth="yes"/>
+      <point x="325" y="729"/>
+      <point x="357" y="699"/>
+      <point x="357" y="674" type="qcurve" smooth="yes"/>
+      <point x="357" y="652"/>
+      <point x="330" y="615"/>
+    </contour>
+  </outline>
+</glyph>

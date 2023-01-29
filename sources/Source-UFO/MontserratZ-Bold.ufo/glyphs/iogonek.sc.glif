@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek.sc" format="2">
+  <advance width="311"/>
+  <anchor x="177.05" y="588.637" name="t.uni0308"/>
+  <anchor x="177.05" y="0" name="b.uni0324_3"/>
+  <anchor x="319.804" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="uni0328.i" xOffset="-65.8708"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EED.sc.ss01" format="2">
+  <advance width="714"/>
+  <anchor x="350.862" y="878.965" name="t.uni0308"/>
+  <anchor x="546.69" y="585.414" name="t.uni031B_2"/>
+  <anchor x="350.862" y="0" name="b.uni0324_3"/>
+  <anchor x="660.413" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="uhorn.sc.ss01"/>
+    <component base="hookabovecomb" xyScale="1.53183e-18" yScale="1" xOffset="46.8277" yOffset="35.931"/>
+  </outline>
+</glyph>

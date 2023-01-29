@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.ss01" format="2">
+  <advance width="351"/>
+  <anchor x="173.257" y="742" name="t.uni0308"/>
+  <anchor x="459.441" y="376.033" name="t.periodcentered.loclCAT"/>
+  <anchor x="173.257" y="376.033" name="t.uni0307_1"/>
+  <anchor x="375.564" y="742" name="t.uni031B_2"/>
+  <anchor x="244.067" y="0" name="b.uni0324_3"/>
+  <outline>
+    <contour>
+      <point x="264.52" y="-7.58663" type="qcurve" smooth="yes"/>
+      <point x="174.207" y="-7.58663"/>
+      <point x="72.3237" y="87.9499"/>
+      <point x="72.3237" y="177.866" type="qcurve" smooth="yes"/>
+      <point x="72.3237" y="742" type="line"/>
+      <point x="228.336" y="742" type="line"/>
+      <point x="228.336" y="187.453" type="line" smooth="yes"/>
+      <point x="228.336" y="153.006"/>
+      <point x="262.576" y="115.749"/>
+      <point x="295.23" y="115.749" type="qcurve" smooth="yes"/>
+      <point x="308.04" y="115.749"/>
+      <point x="332.246" y="121.749"/>
+      <point x="339.246" y="125.749" type="qcurve"/>
+      <point x="346.436" y="5.20669" type="line"/>
+      <point x="326.263" y="-1.18997"/>
+      <point x="285.296" y="-7.58663"/>
+    </contour>
+  </outline>
+</glyph>
