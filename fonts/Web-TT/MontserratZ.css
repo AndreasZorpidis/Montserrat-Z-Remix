@@ -1,0 +1,89 @@
+/** =================== MONTSERRAT =================== **/
+
+/*
+ * Montserrat Z Remix (https://github.com/AndreasZorpidis/Montserrat-Z-Remix/)
+ * Based on Montserrat v8.000 (https://github.com/JulietaUla/Montserrat)   
+ * Licensed under OFL (https://github.com/AndreasZorpidis/Montserrat-Z-Remix/blob/master/OFL.txt)
+ * Description: This version of the font Montserrat has been modified to assure Greek language support using modified glyphs provided by the same font.
+ */
+
+/** Montserrat Thin **/
+@font-face {
+	font-family: "Montserrat Z";
+	font-weight: 100;
+	font-style: normal;
+	src: url("MontserratZ-Thin.woff2") format("woff2"),
+		url("MontserratZ-Thin.woff") format("woff");
+}
+
+/** Montserrat ExtraLight **/
+@font-face {
+	font-family: "Montserrat Z";
+	font-weight: 200;
+	font-style: normal;
+	src: url("MontserratZ-ExtraLight.woff2") format("woff2"),
+		url("MontserratZ-ExtraLight.woff") format("woff");
+}
+
+/** Montserrat Light **/
+@font-face {
+	font-family: "Montserrat Z";
+	font-weight: 300;
+	font-style: normal;
+	src: url("MontserratZ-Light.woff2") format("woff2"),
+		url("MontserratZ-Light.woff") format("woff");
+}
+
+/** Montserrat Regular **/
+@font-face {
+	font-family: "Montserrat Z";
+	font-weight: 400;
+	font-style: normal;
+	src: url("MontserratZ-Regular.woff2") format("woff2"),
+		url("MontserratZ-Regular.woff") format("woff");
+}
+
+/** Montserrat Medium **/
+@font-face {
+	font-family: "Montserrat Z";
+	font-weight: 500;
+	font-style: normal;
+	src: url("MontserratZ-Medium.woff2") format("woff2"),
+		url("MontserratZ-Medium.woff") format("woff");
+}
+
+/** Montserrat SemiBold **/
+@font-face {
+	font-family: "Montserrat Z";
+	font-weight: 600;
+	font-style: normal;
+	src: url("MontserratZ-SemiBold.woff2") format("woff2"),
+		url("MontserratZ-SemiBold.woff") format("woff");
+}
+
+/** Montserrat Bold **/
+@font-face {
+	font-family: "Montserrat Z";
+	font-weight: 700;
+	font-style: normal;
+	src: url("MontserratZ-Bold.woff2") format("woff2"),
+		url("MontserratZ-Bold.woff") format("woff");
+}
+
+/** Montserrat ExtraBold **/
+@font-face {
+	font-family: "Montserrat Z";
+	font-weight: 800;
+	font-style: normal;
+	src: url("MontserratZ-ExtraBold.woff2") format("woff2"),
+		url("MontserratZ-ExtraBold.woff") format("woff");
+}
+
+/** Montserrat Black **/
+@font-face {
+	font-family: "Montserrat Z";
+	font-weight: 900;
+	font-style: normal;
+	src: url("MontserratZ-Black.woff2") format("woff2"),
+		url("MontserratZ-Black.woff") format("woff");
+}
