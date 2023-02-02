@@ -2,8 +2,8 @@
 <glyph name="iotadieresis" format="2">
   <advance width="502"/>
   <unicode hex="03CA"/>
-  <anchor x="250" y="-0" name="b.uni0324_3"/>
-  <anchor x="363" y="-0" name="m.uni0328_4"/>
+  <anchor x="250" y="0" name="b.uni0324_3"/>
+  <anchor x="363" y="0" name="m.uni0328_4"/>
   <anchor x="250" y="740" name="m.uni0308"/>
   <outline>
     <contour>

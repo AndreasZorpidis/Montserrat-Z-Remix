@@ -739,7 +739,7 @@ C -1 ; WX 666 ; N ohungarumlaut ; B 26 -10 640 760 ;
 C -1 ; WX 721 ; N ohungarumlaut.sc ; B 29 -14 693 796 ;
 C -1 ; WX 666 ; N omacron ; B 26 -10 640 735 ;
 C -1 ; WX 721 ; N omacron.sc ; B 29 -14 693 771 ;
-C -1 ; WX 866 ; N omega ; B 42 -15 828 534 ;
+C -1 ; WX 882 ; N omega ; B 29 -14 854 534 ;
 C -1 ; WX 879 ; N omegatonos ; B 28 -14 853 760 ;
 C -1 ; WX 666 ; N omicron ; B 26 -10 640 552 ;
 C -1 ; WX 665 ; N omicrontonos ; B 25 -10 640 760 ;
