@@ -8,8 +8,8 @@
   <outline>
     <contour>
       <point x="82.2125" y="0" type="line"/>
-      <point x="82.2125" y="533.941" type="line"/>
-      <point x="207.222" y="533.941" type="line"/>
+      <point x="82.2125" y="529.588" type="line"/>
+      <point x="207.222" y="529.588" type="line"/>
       <point x="207.222" y="0" type="line"/>
     </contour>
   </outline>

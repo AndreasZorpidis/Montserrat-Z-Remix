@@ -1,116 +1,116 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis minimum="100" tag="wght" maximum="900" default="100" name="weight">
+  <axis tag="wght" name="weight" default="100" minimum="100" maximum="900">
    <labelname xml:lang="en">Weight</labelname>
-   <map output="100" input="100"/>
-   <map output="150.5" input="200"/>
-   <map output="216.5" input="300"/>
-   <map output="298" input="400"/>
-   <map output="395.2" input="500"/>
-   <map output="507.8" input="600"/>
-   <map output="628.2" input="700"/>
-   <map output="760.2" input="800"/>
-   <map output="900" input="900"/>
+   <map input="100" output="100"/>
+   <map input="200" output="150.5"/>
+   <map input="300" output="216.5"/>
+   <map input="400" output="298"/>
+   <map input="500" output="395.2"/>
+   <map input="600" output="507.8"/>
+   <map input="700" output="628.2"/>
+   <map input="800" output="760.2"/>
+   <map input="900" output="900"/>
   </axis>
  </axes>
  <sources>
-  <source stylename="Black" familyname="Montserrat Z" filename="masters/MontserratZ-Black.ufo" name="Black">
+  <source name="Black" familyname="Montserrat Z" stylename="Black" filename="masters/MontserratZ-Black.ufo">
    <location>
-    <dimension xvalue="900" name="weight"/>
+    <dimension name="weight" xvalue="900"/>
    </location>
   </source>
-  <source stylename="Regular" familyname="Montserrat Z" filename="masters/MontserratZ-Regular.ufo" name="Regular">
+  <source name="Regular" familyname="Montserrat Z" stylename="Regular" filename="masters/MontserratZ-Regular.ufo">
    <location>
-    <dimension xvalue="449.51" name="weight"/>
+    <dimension name="weight" xvalue="449.51"/>
    </location>
   </source>
-  <source stylename="Thin" familyname="Montserrat Z" filename="masters/MontserratZ-Thin.ufo" name="Thin">
+  <source name="Thin" familyname="Montserrat Z" stylename="Thin" filename="masters/MontserratZ-Thin.ufo">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension xvalue="100" name="weight"/>
+    <dimension name="weight" xvalue="100"/>
    </location>
   </source>
  </sources>
  <instances>
-  <instance stylename="Regular" familyname="Montserrat Z" filename="instances/MontserratZ-Regular.ufo" name="Regular">
+  <instance name="Regular" familyname="Montserrat Z" stylename="Regular" filename="instances/MontserratZ-Regular.ufo">
    <location>
-    <dimension xvalue="298" name="weight"/>
+    <dimension name="weight" xvalue="298"/>
    </location>
   </instance>
-  <instance stylename="Bold" familyname="Montserrat Z" filename="instances/MontserratZ-Bold.ufo" name="Bold">
+  <instance name="Bold" familyname="Montserrat Z" stylename="Bold" filename="instances/MontserratZ-Bold.ufo">
    <location>
-    <dimension xvalue="628.2" name="weight"/>
+    <dimension name="weight" xvalue="628.2"/>
    </location>
   </instance>
-  <instance stylename="Black" familyname="Montserrat Z" filename="instances/MontserratZ-Black.ufo" name="Black">
+  <instance name="Black" familyname="Montserrat Z" stylename="Black" filename="instances/MontserratZ-Black.ufo">
    <location>
-    <dimension xvalue="900" name="weight"/>
+    <dimension name="weight" xvalue="900"/>
    </location>
   </instance>
-  <instance stylename="ExtraBold" familyname="Montserrat Z" filename="instances/MontserratZ-ExtraBold.ufo" name="ExtraBold">
+  <instance name="ExtraBold" familyname="Montserrat Z" stylename="ExtraBold" filename="instances/MontserratZ-ExtraBold.ufo">
    <location>
-    <dimension xvalue="760.2" name="weight"/>
+    <dimension name="weight" xvalue="760.2"/>
    </location>
   </instance>
-  <instance stylename="ExtraLight" familyname="Montserrat Z" filename="instances/MontserratZ-ExtraLight.ufo" name="ExtraLight">
+  <instance name="ExtraLight" familyname="Montserrat Z" stylename="ExtraLight" filename="instances/MontserratZ-ExtraLight.ufo">
    <location>
-    <dimension xvalue="150.5" name="weight"/>
+    <dimension name="weight" xvalue="150.5"/>
    </location>
   </instance>
-  <instance stylename="Light" familyname="Montserrat Z" filename="instances/MontserratZ-Light.ufo" name="Light">
+  <instance name="Light" familyname="Montserrat Z" stylename="Light" filename="instances/MontserratZ-Light.ufo">
    <location>
-    <dimension xvalue="216.5" name="weight"/>
+    <dimension name="weight" xvalue="216.5"/>
    </location>
   </instance>
-  <instance stylename="Medium" familyname="Montserrat Z" filename="instances/MontserratZ-Medium.ufo" name="Medium">
+  <instance name="Medium" familyname="Montserrat Z" stylename="Medium" filename="instances/MontserratZ-Medium.ufo">
    <location>
-    <dimension xvalue="395.2" name="weight"/>
+    <dimension name="weight" xvalue="395.2"/>
    </location>
   </instance>
-  <instance stylename="SemiBold" familyname="Montserrat Z" filename="instances/MontserratZ-SemiBold.ufo" name="SemiBold">
+  <instance name="SemiBold" familyname="Montserrat Z" stylename="SemiBold" filename="instances/MontserratZ-SemiBold.ufo">
    <location>
-    <dimension xvalue="507.8" name="weight"/>
+    <dimension name="weight" xvalue="507.8"/>
    </location>
   </instance>
-  <instance stylename="Thin" familyname="Montserrat Z" filename="instances/MontserratZ-Thin.ufo" name="Thin">
+  <instance name="Thin" familyname="Montserrat Z" stylename="Thin" filename="instances/MontserratZ-Thin.ufo">
    <location>
-    <dimension xvalue="100" name="weight"/>
+    <dimension name="weight" xvalue="100"/>
    </location>
   </instance>
  </instances>
  <rules>
   <rule>
-   <sub with="Q.ss01.BRACKET.170" name="Q.ss01"/>
-   <sub with="q.sc.ss01.BRACKET.170" name="q.sc.ss01"/>
+   <sub name="Q.ss01" with="Q.ss01.BRACKET.170"/>
+   <sub name="q.sc.ss01" with="q.sc.ss01.BRACKET.170"/>
    <conditionset>
-    <condition minimum="682.51999999999998" name="weight"/>
+    <condition name="weight" minimum="682.51999999999998"/>
    </conditionset>
   </rule>
   <rule>
-   <sub with="cent.BRACKET.179" name="cent.BRACKET"/>
-   <sub with="colonmonetary.1" name="colonmonetary"/>
-   <sub with="dollar.BRACKET.179" name="dollar.BRACKET"/>
-   <sub with="uni20B2.1" name="uni20B2"/>
-   <sub with="uni20B5.1" name="uni20B5"/>
+   <sub name="cent.BRACKET" with="cent.BRACKET.179"/>
+   <sub name="colonmonetary" with="colonmonetary.1"/>
+   <sub name="dollar.BRACKET" with="dollar.BRACKET.179"/>
+   <sub name="uni20B2" with="uni20B2.1"/>
+   <sub name="uni20B5" with="uni20B5.1"/>
    <conditionset>
-    <condition minimum="717.48000000000002" name="weight"/>
+    <condition name="weight" minimum="717.48000000000002"/>
    </conditionset>
   </rule>
   <rule>
-   <sub with="uni20A6.1" name="uni20A6"/>
+   <sub name="uni20A6" with="uni20A6.1"/>
    <conditionset>
-    <condition minimum="488.32999999999998" name="weight"/>
+    <condition name="weight" minimum="488.32999999999998"/>
    </conditionset>
   </rule>
   <rule>
-   <sub with="uni20A9.1" name="uni20A9"/>
-   <sub with="uni20B1.1" name="uni20B1"/>
+   <sub name="uni20A9" with="uni20A9.1"/>
+   <sub name="uni20B1" with="uni20B1.1"/>
    <conditionset>
-    <condition minimum="527.20000000000005" name="weight"/>
+    <condition name="weight" minimum="527.20000000000005"/>
    </conditionset>
   </rule>
  </rules>

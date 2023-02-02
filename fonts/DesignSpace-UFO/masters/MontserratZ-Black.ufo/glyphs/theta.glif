@@ -12,21 +12,21 @@
       <point x="377" y="-16" type="qcurve" smooth="yes"/>
       <point x="291" y="-16"/>
       <point x="186" y="38"/>
-      <point x="80" y="137"/>
-      <point x="21" y="261"/>
-      <point x="21" y="340" type="qcurve" smooth="yes"/>
-      <point x="21" y="420"/>
-      <point x="80" y="543"/>
+      <point x="90" y="137"/>
+      <point x="42" y="261"/>
+      <point x="42" y="340" type="qcurve" smooth="yes"/>
+      <point x="42" y="420"/>
+      <point x="90" y="543"/>
       <point x="186" y="642"/>
       <point x="291" y="696"/>
       <point x="376" y="696" type="qcurve" smooth="yes"/>
       <point x="462" y="696"/>
       <point x="576" y="642"/>
-      <point x="682" y="543"/>
-      <point x="741" y="420"/>
-      <point x="741" y="340" type="qcurve" smooth="yes"/>
-      <point x="741" y="261"/>
-      <point x="682" y="137"/>
+      <point x="672" y="543"/>
+      <point x="720" y="420"/>
+      <point x="720" y="340" type="qcurve" smooth="yes"/>
+      <point x="720" y="261"/>
+      <point x="672" y="137"/>
       <point x="576" y="38"/>
       <point x="462" y="-16"/>
     </contour>

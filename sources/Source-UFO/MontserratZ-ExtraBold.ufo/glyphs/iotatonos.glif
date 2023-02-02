@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iotatonos" format="2">
-  <advance width="230"/>
+  <advance width="309"/>
   <unicode hex="03AF"/>
-  <anchor x="146.794" y="551.655" name="t.uni0308"/>
-  <anchor x="146.794" y="0" name="b.uni0324_3"/>
-  <anchor x="273.759" y="0" name="m.uni0328_4"/>
+  <anchor x="188.276" y="551.655" name="t.uni0308"/>
+  <anchor x="188.276" y="0" name="b.uni0324_3"/>
+  <anchor x="315.241" y="0" name="m.uni0328_4"/>
   <outline>
     <contour>
-      <point x="20" y="0" type="line"/>
-      <point x="20" y="542.345" type="line"/>
-      <point x="210.002" y="542.345" type="line"/>
-      <point x="210.002" y="0" type="line"/>
+      <point x="61.4822" y="0" type="line"/>
+      <point x="61.4822" y="541.414" type="line"/>
+      <point x="251.484" y="541.414" type="line"/>
+      <point x="251.484" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="61.5869" y="607" type="line"/>
-      <point x="117.691" y="758.931" type="line"/>
-      <point x="287.968" y="758.931" type="line"/>
-      <point x="176.174" y="607" type="line"/>
+      <point x="103.069" y="607" type="line"/>
+      <point x="159.173" y="758.931" type="line"/>
+      <point x="329.45" y="758.931" type="line"/>
+      <point x="217.656" y="607" type="line"/>
     </contour>
   </outline>
 </glyph>
