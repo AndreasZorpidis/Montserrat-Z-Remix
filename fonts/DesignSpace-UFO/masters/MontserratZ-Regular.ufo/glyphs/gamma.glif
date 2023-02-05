@@ -6,7 +6,7 @@
   <anchor x="324" y="0" name="b.uni0324_3"/>
   <outline>
     <contour>
-      <point x="213" y="-195" type="line"/>
+      <point x="213" y="-200" type="line"/>
       <point x="213" y="61" type="line"/>
       <point x="234" y="-11" type="line"/>
       <point x="-20" y="538" type="line"/>
@@ -17,7 +17,7 @@
       <point x="558" y="538" type="line"/>
       <point x="304" y="-11" type="line"/>
       <point x="324" y="61" type="line"/>
-      <point x="324" y="-195" type="line"/>
+      <point x="324" y="-200" type="line"/>
     </contour>
   </outline>
 </glyph>

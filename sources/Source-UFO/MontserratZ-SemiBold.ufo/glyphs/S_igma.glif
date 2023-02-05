@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Sigma" format="2">
-  <advance width="691"/>
+  <advance width="635"/>
   <unicode hex="03A3"/>
   <anchor x="475.129" y="700" name="t.uni0308"/>
   <anchor x="475.129" y="0" name="b.uni0324_3"/>
   <outline>
     <contour>
-      <point x="641.835" y="0" type="line"/>
+      <point x="576.54" y="0" type="line"/>
       <point x="42" y="0" type="line"/>
-      <point x="42" y="101.764" type="line"/>
-      <point x="353.564" y="379.2" type="line"/>
-      <point x="353.564" y="325.059" type="line"/>
-      <point x="42" y="597.978" type="line"/>
+      <point x="42" y="103.834" type="line"/>
+      <point x="307.811" y="379.2" type="line"/>
+      <point x="307.811" y="325.059" type="line"/>
+      <point x="42" y="595.907" type="line"/>
       <point x="42" y="699.741" type="line"/>
-      <point x="641.835" y="700.871" type="line"/>
-      <point x="641.835" y="582.46" type="line"/>
-      <point x="221.434" y="581.331" type="line"/>
-      <point x="221.434" y="607.495" type="line"/>
-      <point x="463.045" y="377.941" type="line"/>
-      <point x="463.045" y="321.8" type="line"/>
-      <point x="221.434" y="88.599" type="line"/>
-      <point x="221.434" y="118.411" type="line"/>
-      <point x="641.835" y="118.411" type="line"/>
+      <point x="576.54" y="700.871" type="line"/>
+      <point x="576.54" y="582.46" type="line"/>
+      <point x="190.963" y="581.331" type="line"/>
+      <point x="190.963" y="607.495" type="line"/>
+      <point x="423.387" y="377.941" type="line"/>
+      <point x="423.387" y="321.8" type="line"/>
+      <point x="190.963" y="88.599" type="line"/>
+      <point x="190.963" y="118.411" type="line"/>
+      <point x="576.54" y="118.411" type="line"/>
     </contour>
   </outline>
 </glyph>

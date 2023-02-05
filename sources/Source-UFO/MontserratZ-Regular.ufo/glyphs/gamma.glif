@@ -6,7 +6,7 @@
   <anchor x="310.128" y="0" name="b.uni0324_3"/>
   <outline>
     <contour>
-      <point x="208.665" y="-194.133" type="line"/>
+      <point x="208.665" y="-200" type="line"/>
       <point x="208.665" y="45.3943" type="line"/>
       <point x="222.729" y="-1.89665" type="line"/>
       <point x="-24.7684" y="528.897" type="line"/>
@@ -17,7 +17,7 @@
       <point x="514.217" y="528.897" type="line"/>
       <point x="266.72" y="-1.89665" type="line"/>
       <point x="280.217" y="45.3943" type="line"/>
-      <point x="280.217" y="-194.133" type="line"/>
+      <point x="280.217" y="-200" type="line"/>
     </contour>
   </outline>
 </glyph>

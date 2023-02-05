@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eta" format="2">
-  <advance width="685"/>
+  <advance width="686"/>
   <unicode hex="03B7"/>
   <anchor x="362.835" y="560.059" name="t.uni0308"/>
   <anchor x="362.835" y="0" name="b.uni0324_3"/>
@@ -11,8 +11,8 @@
       <point x="549.728" y="490.329"/>
       <point x="607.858" y="386.682"/>
       <point x="607.858" y="305.906" type="qcurve" smooth="yes"/>
-      <point x="607.858" y="-193.647" type="line"/>
-      <point x="482.848" y="-193.647" type="line"/>
+      <point x="607.858" y="-200" type="line"/>
+      <point x="482.848" y="-200" type="line"/>
       <point x="482.848" y="289.542" type="line" smooth="yes"/>
       <point x="482.848" y="360.566"/>
       <point x="416.377" y="430.554"/>

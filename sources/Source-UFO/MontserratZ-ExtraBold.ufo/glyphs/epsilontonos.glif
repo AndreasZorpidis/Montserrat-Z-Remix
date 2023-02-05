@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="epsilontonos" format="2">
-  <advance width="604"/>
+  <advance width="585"/>
   <unicode hex="03AD"/>
   <anchor x="332.896" y="585.414" name="t.uni0308"/>
   <anchor x="332.896" y="0" name="b.uni0324_3"/>

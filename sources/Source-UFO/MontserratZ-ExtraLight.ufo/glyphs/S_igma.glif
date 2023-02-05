@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Sigma" format="2">
-  <advance width="701"/>
+  <advance width="686"/>
   <unicode hex="03A3"/>
-  <anchor x="475" y="700" name="t.uni0308"/>
-  <anchor x="475" y="0" name="b.uni0324_3"/>
+  <anchor x="486.977" y="700" name="t.uni0308"/>
+  <anchor x="486.977" y="0" name="b.uni0324_3"/>
   <outline>
     <contour>
-      <point x="640.433" y="-0.855512" type="line"/>
-      <point x="60.8213" y="-0.855512" type="line"/>
-      <point x="60.8213" y="27.2701" type="line"/>
-      <point x="403.608" y="358.179" type="line"/>
-      <point x="403.608" y="343.255" type="line"/>
-      <point x="60.8213" y="672.73" type="line"/>
-      <point x="60.8213" y="700.856" type="line"/>
-      <point x="640.433" y="701" type="line"/>
-      <point x="640.433" y="667.996" type="line"/>
-      <point x="110.772" y="667.852" type="line"/>
-      <point x="110.772" y="678.308" type="line"/>
-      <point x="434.167" y="358.89" type="line"/>
-      <point x="434.167" y="341.11" type="line"/>
-      <point x="110.772" y="20.4031" type="line"/>
-      <point x="110.772" y="32.1484" type="line"/>
-      <point x="640.433" y="32.1484" type="line"/>
+      <point x="626.175" y="-0.855512" type="line"/>
+      <point x="57.3992" y="-0.855512" type="line"/>
+      <point x="57.3992" y="27.2701" type="line"/>
+      <point x="394.118" y="358.179" type="line"/>
+      <point x="394.118" y="343.255" type="line"/>
+      <point x="57.3992" y="672.73" type="line"/>
+      <point x="57.3992" y="700.856" type="line"/>
+      <point x="626.175" y="701" type="line"/>
+      <point x="626.175" y="667.996" type="line"/>
+      <point x="102.293" y="667.852" type="line"/>
+      <point x="102.293" y="678.308" type="line"/>
+      <point x="425.688" y="358.89" type="line"/>
+      <point x="425.688" y="341.11" type="line"/>
+      <point x="102.293" y="20.4031" type="line"/>
+      <point x="102.293" y="32.1484" type="line"/>
+      <point x="626.175" y="32.1484" type="line"/>
     </contour>
   </outline>
 </glyph>

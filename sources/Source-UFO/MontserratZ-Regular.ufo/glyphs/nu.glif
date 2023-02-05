@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nu" format="2">
-  <advance width="542"/>
+  <advance width="598"/>
   <unicode hex="03BD"/>
-  <anchor x="352" y="562" name="t.uni0308"/>
-  <anchor x="352" y="0" name="b.uni0324_3"/>
+  <anchor x="380.232" y="562" name="t.uni0308"/>
+  <anchor x="380.232" y="0" name="b.uni0324_3"/>
   <outline>
     <contour>
-      <point x="234.369" y="0" type="line"/>
-      <point x="0.901434" y="525.498" type="line"/>
-      <point x="75.4536" y="525.498" type="line"/>
-      <point x="289.158" y="38.3598" type="line"/>
-      <point x="253.966" y="38.3598" type="line"/>
-      <point x="470.502" y="525.498" type="line"/>
-      <point x="541.089" y="525.498" type="line"/>
-      <point x="307.055" y="0" type="line"/>
+      <point x="262.601" y="0" type="line"/>
+      <point x="29.133" y="525.498" type="line"/>
+      <point x="103.685" y="525.498" type="line"/>
+      <point x="317.389" y="38.3598" type="line"/>
+      <point x="282.197" y="38.3598" type="line"/>
+      <point x="498.734" y="525.498" type="line"/>
+      <point x="569.321" y="525.498" type="line"/>
+      <point x="335.286" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

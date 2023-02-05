@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Sigma" format="2">
-  <advance width="696"/>
+  <advance width="656"/>
   <unicode hex="03A3"/>
-  <anchor x="475" y="700" name="t.uni0308"/>
-  <anchor x="475" y="0" name="b.uni0324_3"/>
+  <anchor x="481.069" y="700" name="t.uni0308"/>
+  <anchor x="481.069" y="0" name="b.uni0324_3"/>
   <outline>
     <contour>
-      <point x="641.7" y="-0.433493" type="line"/>
-      <point x="51.5368" y="-0.433493" type="line"/>
-      <point x="51.5368" y="60.1876" type="line"/>
-      <point x="376.177" y="367.463" type="line"/>
-      <point x="376.177" y="335.236" type="line"/>
-      <point x="51.5368" y="639.812" type="line"/>
-      <point x="51.5368" y="700.433" type="line"/>
-      <point x="641.7" y="701" type="line"/>
-      <point x="641.7" y="630.014" type="line"/>
-      <point x="162.68" y="629.448" type="line"/>
-      <point x="162.68" y="647.078" type="line"/>
-      <point x="440.498" y="367.33" type="line"/>
-      <point x="440.498" y="332.67" type="line"/>
-      <point x="162.68" y="50.7885" type="line"/>
-      <point x="162.68" y="70.5522" type="line"/>
-      <point x="641.7" y="70.5522" type="line"/>
+      <point x="597.477" y="-0.433493" type="line"/>
+      <point x="49.8029" y="-0.433493" type="line"/>
+      <point x="49.8029" y="60.1876" type="line"/>
+      <point x="350.65" y="367.463" type="line"/>
+      <point x="350.65" y="335.236" type="line"/>
+      <point x="49.8029" y="639.812" type="line"/>
+      <point x="49.8029" y="700.433" type="line"/>
+      <point x="597.477" y="701" type="line"/>
+      <point x="597.477" y="630.014" type="line"/>
+      <point x="141.119" y="629.448" type="line"/>
+      <point x="141.119" y="647.078" type="line"/>
+      <point x="418.936" y="367.33" type="line"/>
+      <point x="418.936" y="332.67" type="line"/>
+      <point x="141.119" y="50.7885" type="line"/>
+      <point x="141.119" y="70.5522" type="line"/>
+      <point x="597.477" y="70.5522" type="line"/>
     </contour>
   </outline>
 </glyph>
